@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-I am Nischal A. I am currently in Sophomore year of  B Tech in the IIT - Patna.
+I am in my second year of B Tech in Computer Science and Engineering at the Indian Institute of Technology Patna.
+
+My interests lie in Machine Learning, Deep Learning and its applications in Natural Language Processing and Computer Vision.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am from Bengaluru, India.
 
-### Contact me
+### Connect
 
-[nischalrokz19@gmail.com](mailto:nischalrokz19@gmail.com)
+* [email](mailto:nischalrokz19@gmail.com)
+* [GitHub](https://github.com/Nish-19)
+* [Linkedin](https://www.linkedin.com/in/nischal-a-67541616a/)
