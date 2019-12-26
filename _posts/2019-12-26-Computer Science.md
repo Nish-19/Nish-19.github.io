@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opportunities in Computer Science for college students.
+title: Opportunities in Computer Science for College Students.
 ---
 
 ![image](https://user-images.githubusercontent.com/41947720/71482376-459de500-2828-11ea-973c-58a03dd246a9.png)
@@ -9,7 +9,7 @@ Computer Science is the most sought after courses in the world. With the invent 
 
 This blog talks about the different fields of computer Science which can be tried out by students studying undergrad in universities and more specifically about my journey in the field of Computer Science until now.
 
-## What do CS students do in college?
+### What do CS students do in college?
 
 ![image](https://user-images.githubusercontent.com/41947720/71482611-8ea26900-2829-11ea-8852-d477055420a3.png)
 
@@ -21,13 +21,13 @@ Who doesn't like playing video games? We all have enjoyed it, at least one point
 
 Same is it with coding. We start with a set of rules, learn how things work, and start applying it from the basic. People with some experience can relate to the legendary Hello World program or the Hello world repository on GitHub.
 
-## Where do I start from?
+### Where do I start from?
 
 ![image](https://user-images.githubusercontent.com/41947720/71483180-a3ccc700-282c-11ea-833a-72386f06dc5b.png)
 
 As a beginner it becomes really overwhelming to chose the "right" field/ technology to work in. There are so many fields and only a few guides about how to start because of which students land up in a state of confusion. Let's have a look at a broad overview of the different fields.
 
-### 1) Competitive Programming:-
+#### 1) Competitive Programming:-
 
 ![image](https://user-images.githubusercontent.com/41947720/71483357-77fe1100-282d-11ea-834e-36605ee2d247.png)
 
