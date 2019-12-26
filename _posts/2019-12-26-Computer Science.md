@@ -31,7 +31,7 @@ As a beginner it becomes really overwhelming to chose the "right" field/ technol
 
 ![image](https://user-images.githubusercontent.com/41947720/71483357-77fe1100-282d-11ea-834e-36605ee2d247.png)
 
-Perhaps the most easiest to start with. It serves as an entry point to most people.
+Perhaps the most easiest to start with. It serves as an entry point to most people. Having said that, it also becomes the most challenging as one matures in it.
 
 Ever played a sport? Then you know how it feels to perform in time restrained conditions, with an array of rules to keep in mind.
 
@@ -40,3 +40,17 @@ Coming to the point, to quote Wikipedia "Competitive programming is a mind sport
 Problem solving is an inherent ability with which all of us are gifted. Competitive Programming makes use of this fact. We start coding solutions to problem statements so as to satisfy an whole bunch of test-cases all following a strict time limit.
 
 To begin with we have website like [HackerRank](https://www.hackerrank.com/home?utm_expid=.2u09ecQTSny1HV02SEVoCg.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F) and [HackerEarth](https://www.hackerearth.com/challenges/) and then we proceed forward to [Codeforces](https://codeforces.com/) and [CodeChef](https://www.codechef.com/). Each one of these website has its own way of asking questions and hosting contests. Most math lovers, problem solvers and coding freaks can be found here most of the time in a day.
+
+#### 2) Mobile Application Development
+
+![image](https://user-images.githubusercontent.com/41947720/71485750-c238bf80-2838-11ea-946f-42f8973d3776.png)
+
+Smartphones are becoming the new way of life. With thousands of apps from social networking, music, entertainment, health and fitness, productivity and what not! We are virtually one finger tip away from connecting with the vast expanse of this world. Seems smart isn't it?
+
+Ever wondered what goes into making those apps which are an inevitable part of your life? If not, then you are in the right place. Mobile Application Development mainly takes place on Android and iOS operating systems. What you see on your screen is called the Front-end and what goes in running it behind is the Back-end.
+
+Seems simple isn't it?
+
+But there is more to it. An extensive knowledge on databases, servers, life cycle of apps, object oriented programming and many more is what constitutes it. Android Development is mainly done through a software called [Android Studio](https://developer.android.com/training/basics/firstapp/building-ui). The popular programming languages used are Java and Kotlin.
+
+If you are the creative kid out there who is inspired by the world of mobile applications, who wants to try his hands on it, then this is undoubtedly the most appropriate field for you.
