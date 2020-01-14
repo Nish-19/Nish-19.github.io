@@ -15,7 +15,7 @@ I am from Bengaluru, India.
 
 ### Resume
 
-[Resume.pdf](https://github.com/Nish-19/Unsupervised_Data_Mining/files/4059510/Resume.pdf)
+![Resume.pdf](https://github.com/Nish-19/Unsupervised_Data_Mining/files/4059510/Resume.pdf)
 
 ### Connect
 
