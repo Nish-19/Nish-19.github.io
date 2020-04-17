@@ -31,8 +31,11 @@ Having said this, let's see how we can use transfer learning practically.
 
 ### Pre-trained Model Approach
 1) Selecting source model: Here we select a pre-trained model from among the available ones, which we think is the most suited for our task. There are plenty of such models freely available to choose from.
+
 2) Reuse Model: This model is then used for the target task. Here we may have to take care of things like how to input the data, how many layers should we use from the model etc.
+
 3) Tune Model: After making it suitable for the task, we may go further by adding additional layers upon the pre-trained model and make it well suited to our target task.
+
 
 ## Examples of Transfer Learning
 
