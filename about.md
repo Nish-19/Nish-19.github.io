@@ -19,7 +19,7 @@ I am working in the AI-ML-NLP lab of IIT-P on the topic of  Document Level Novel
 | Python     	| C/C++   	| Java  	|
 | Bash       	| Verilog 	| HTML  	|
 | Tesorflow  	| Pytorch 	| MySql 	|
-| Git/Github 	| Latex   	|
+| Git/Github 	| Latex   	|       	|
 
 ### Languages
 
