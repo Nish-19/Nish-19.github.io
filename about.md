@@ -11,7 +11,9 @@ I am working in the AI-ML-NLP lab of IIT-P on the topic of  Document Level Novel
 ### Education
 
 * B.Tech Computer Science and Engineering - Indian Institute of Technology Patna (2018-2022)
+
 * PUC (11th and 12th), VVS. Sardar Patel PU College - Bengaluru (Subjects - Phy, Chem, Maths, Electronics, English and Kannada)
+
 * Schooling (10th std - ICSE) - The New Cambridge High School - Bengaluru
 
 ### Programming Languages and tools
@@ -24,4 +26,4 @@ I am working in the AI-ML-NLP lab of IIT-P on the topic of  Document Level Novel
 
 ### Languages
 
-| English     	| Kannada   	| Hindi  	| Telugu       	|
+English, Kannada, Hindi and Telugu
