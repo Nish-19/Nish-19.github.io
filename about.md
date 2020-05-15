@@ -4,23 +4,23 @@ title: About
 permalink: /about/
 ---
 
-I am in my second year of B Tech in Computer Science and Engineering at the Indian Institute of Technology Patna.
+I am in my second year of B Tech in Computer Science and Engineering at the Indian Institute of Technology Patna. My interests lie in Machine Learning, Deep Learning, and its applications in Natural Language Processing and Computer Vision. I am actively involved in research projects at IIT - Patna. The mathematical intuition behind the working of deep neural networks has enthralled me. Deep learning has brought a revolution in various fields of science in terms of solving traditional problems. I am fascinated by the same and am currently in the pursuit of diving deep into it.
 
-My interests lie in Machine Learning, Deep Learning and its applications in Natural Language Processing and Computer Vision.
+I am working in the AI-ML-NLP lab of IIT-P on the topic of  Document Level Novelty Detection and on building the academic chatbot for IIT-P. I am also working in the Data Analytics and Networks lab. Here, my work is based on deep learning, and NLP applied to social media. Being a team-worker, I have successfully contributed in various team projects. I have experience in software development, android application development, and competitive programming.
 
+### Education
 
-### More Information
+* B.Tech Computer Science and Engineering - Indian Institute of Technology Patna (2018-2022)
+* PUC (11th and 12th), VVS. Sardar Patel PU College - Bengaluru (Subjects - Phy, Chem, Maths, Electronics, English and Kannada)
+* Schooling (10th std - ICSE) - The New Cambridge High School - Bengaluru
 
-I am from Bengaluru, India.
+### Programming Languages and tools
 
-### Resume
+| Python     	| C/C++   	| Java  	|
+| Bash       	| Verilog 	| HTML  	|
+| Tesorflow  	| Pytorch 	| MySql 	|
+| Git/Github 	| Latex   	|
 
-[Resume.pdf](https://github.com/Nish-19/Unsupervised_Data_Mining/files/4059510/Resume.pdf)
+### Languages
 
-[Link to resume](https://github.com/Nish-19/Nish-19.github.io/blob/master/resume/Resume.pdf)
-
-### Connect
-
-* [Email](mailto:nischalrokz19@gmail.com)
-* [GitHub](https://github.com/Nish-19)
-* [Linkedin](https://www.linkedin.com/in/nischal-a-67541616a/)
+| English     	| Kannada   	| Hindi  	| Telugu       	|
