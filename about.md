@@ -18,7 +18,7 @@ I am working in the AI-ML-NLP lab of IIT-P on the topic of  Document Level Novel
 
 ### Programming Languages and tools
 
-Python, C/C++, Java
+Python, C/C++, Java,
 Bash, Verilog, HTML,
 Tensorflow, Pytorch, MySql,
 Git/Github, Latex.
