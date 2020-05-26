@@ -73,7 +73,7 @@ Since we deal with huge data in ML models, the task of organizing them and prepa
 
 *The above figure is of a common data distribution considered in ML (the gaussian distribution)*
 
-Prob-Stat is indeed the most important topic on maths used in ML.
+Prob-Stat is indeed the most important topic of maths used in ML.
 
 ### Resources for Learning
 
@@ -89,7 +89,8 @@ Prob-Stat is indeed the most important topic on maths used in ML.
 
 #### Bonus
 
-[For book lovers](https://mml-book.github.io/book/mml-book.pdf)
+[For book lovers](https://mml-book.github.io/book/mml-book.pdf)     
+
 [A complete course](https://www.coursera.org/specializations/mathematics-machine-learning)
 
 ## Conclusion

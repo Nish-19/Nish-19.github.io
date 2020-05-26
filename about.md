@@ -25,4 +25,4 @@ Git/Github, Latex.
 
 ### Languages
 
-English, French, Kannada, Hindi and Telugu
+English, French, Kannada, Hindi, Telugu
