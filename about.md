@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+Click [here](https://nish-19.github.io/resume/Resume.pdf) for my CV.       
 
 I am in my second year of B Tech in Computer Science and Engineering at the Indian Institute of Technology Patna. My interests lie in Machine Learning, Deep Learning, and its applications in Natural Language Processing and Computer Vision. I am actively involved in research projects at IIT - Patna. The mathematical intuition behind the working of deep neural networks has enthralled me. Deep learning has brought a revolution in various fields of science in terms of solving traditional problems. I am fascinated by the same and am currently in the pursuit of diving deep into it.
 
