@@ -86,7 +86,7 @@ The motivation behind this work is: -
 2. Adversarial robustness depends on the smoothness of the classifier which can be determined by unlabeled data.
 3. Only a small amount of labelled data is needed for standard generalization.
 
-Here, they propose three variants of the UAT algorithm and experiment will all three of them.
+Here, they propose three variants of the UAT algorithm and experiment with all three of them.
 
 ![image](https://user-images.githubusercontent.com/41947720/87971125-786c3b00-cae2-11ea-9c6f-5837d8f5c48e.png)
 
