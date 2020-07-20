@@ -60,7 +60,7 @@ The reasoning for using unlabeled data for bridging the sample complexity gap is
 
 ![image](https://user-images.githubusercontent.com/41947720/87969963-aea8bb00-cae0-11ea-8c9a-40ac2c8b2b0d.png)
 
-Here, Lstandard is the cross-entropy loss and Lrobust is the KL loss (as used in TRADES)
+Here, Lstandard is the cross-entropy loss and Lrobust is the [KL](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence) loss (as used in TRADES)
 
 Note - Here cifar-10 is used as the labeled dataset containing 50K training samples. The unlabeled data is procured from the 80M Tiny Images dataset following a definite procedure. Total 500K unlabeled data is procured.
 
