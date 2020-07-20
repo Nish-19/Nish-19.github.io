@@ -6,9 +6,9 @@ title: Unlabeled Data for Adversarial Robustness
 *Effect of adversarial perturbations on natural input - Misclassification of an image (which hasn't changed in human's perspective)*
 
 This blog post talks about using Unlabeled data for improving Adversarial Robustness in deep neural networks. This post is a summary of the following works: -
-1) [Using Pre-training can improve model robustness](https://arxiv.org/pdf/1901.09960.pdf) (ICML 2019)
-2) [Unlabeled data improves adversarial robustness](https://arxiv.org/abs/1905.13736) (NeurIPS 2019)
-3) [Are labels required for improving adversarial robustness?](https://arxiv.org/abs/1905.13725) (NeurIPS 2019)
+1. [Using Pre-training can improve model robustness](https://arxiv.org/pdf/1901.09960.pdf) (ICML 2019)
+2. [Unlabeled data improves adversarial robustness](https://arxiv.org/abs/1905.13736) (NeurIPS 2019)
+3. [Are labels required for improving adversarial robustness?](https://arxiv.org/abs/1905.13725) (NeurIPS 2019)
 
 ## Brief Precursor to using unlabeled data for adversarial robustness
 
@@ -23,8 +23,8 @@ Hence from his work we can conclude that there is a need for additional data for
 ## Using Pre-Training Improves Adversarial robustness
 
 This paper introduces the concept of Adversarial Pre-training. This is based on the following concepts: -
-1) The problem of requirement of more task specific data can be solved using pre-training (a typical transfer learning scenario)
-2) Data from a different distribution can be beneficial for a different task (Huh et al)
+1. The problem of requirement of more task specific data can be solved using pre-training (a typical transfer learning scenario)
+2. Data from a different distribution can be beneficial for a different task (Huh et al)
 
 ### Method used
 
@@ -48,9 +48,9 @@ This paper addresses the following questions -
 The solution to the questions is a Semi-Supervised Adversarial Training Algorithm
 
 Here they propose an algorithm Robust Self Training (RST) which is based on : -
-1) Taking unlabeled data and generating pseudo labels from them (using a network pre-trained with the labeled data)
-2) Mixing the unlabeled data and the labeled data in a definite proportion.
-3) Performing adversarial training ([TRADES](https://arxiv.org/pdf/1901.08573.pdf)) on this dataset.
+1. Taking unlabeled data and generating pseudo labels from them (using a network pre-trained with the labeled data)
+2. Mixing the unlabeled data and the labeled data in a definite proportion.
+3. Performing adversarial training ([TRADES](https://arxiv.org/pdf/1901.08573.pdf)) on this dataset.
 
 The reasoning for using unlabeled data for bridging the sample complexity gap is: -
 * Labeling Data is generally an expensive and tedious process.
@@ -77,14 +77,14 @@ We can observe that the RST model performs better than the other models on all t
 Like the previous work, this work also focuses on using unlabeled data for improving adversarial robustness.
 
 The main contributions of this work are: -
-1) Proposed UAT (Unsupervised Adversarial Training) method to make use of unlabeled data.
-2) Proved that unlabeled data can be competitive to labelled data for bridging the sample complexity gap in Schmidt et al.
-3) New state-of-art on CIFAR-10 using uncurated unlabeled data.
+1. Proposed UAT (Unsupervised Adversarial Training) method to make use of unlabeled data.
+2. Proved that unlabeled data can be competitive to labelled data for bridging the sample complexity gap in Schmidt et al.
+3. New state-of-art on CIFAR-10 using uncurated unlabeled data.
 
 The motivation behind this work is: -
-1) Labelled data is expensive
-2) Adversarial robustness depends on the smoothness of the classifier which can be determined by unlabeled data.
-3) Only a small amount of labelled data is needed for standard generalization.
+1. Labelled data is expensive
+2. Adversarial robustness depends on the smoothness of the classifier which can be determined by unlabeled data.
+3. Only a small amount of labelled data is needed for standard generalization.
 
 Here, they propose three variants of the UAT algorithm and experiment will all three of them.
 
