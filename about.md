@@ -5,7 +5,7 @@ permalink: /about/
 ---
 You can find my complete resume [here](https://nish-19.github.io/resume/nischal_resume.pdf)      
 
-I am in my second year of B Tech in Computer Science and Engineering at the Indian Institute of Technology Patna. My interests lie in Machine Learning, Deep Learning, and its applications in Natural Language Processing and Computer Vision. I am actively involved in research projects at IIT - Patna. The mathematical intuition behind the working of deep neural networks has enthralled me. Deep learning has brought a revolution in various fields of science in terms of solving traditional problems. I am fascinated by the same and am currently in the pursuit of diving deep into it.
+I am in my third year of B.Tech in Computer Science and Engineering at the Indian Institute of Technology Patna. My interests lie in Machine Learning, Deep Learning, and its applications in Natural Language Processing and Computer Vision. I am actively involved in research projects at IIT - Patna. The mathematical intuition behind the working of deep neural networks has enthralled me. Deep learning has brought a revolution in various fields of science in terms of solving traditional problems. I am fascinated by the same and am currently in the pursuit of diving deep into it.
 
 I am working in the AI-ML-NLP lab of IIT-P on the topic of  Document Level Novelty Detection and on building the academic chatbot for IIT-P. I am also working in the Data Analytics and Networks lab. Here, my work is based on deep learning, and NLP applied to social media. Being a team-worker, I have successfully contributed in various team projects. I have experience in software development, android application development, and competitive programming.
 
