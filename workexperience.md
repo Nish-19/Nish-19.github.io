@@ -23,7 +23,7 @@ Built a module for unsupervised data retrieval for useful information extraction
 Worked on document level novelty detection and working currently on building a chatbot for the academic portal of IIT - Patna.
 
 ## Undergraduate Researcher / Data Analytics and Networks lab IIT Patna
-*January 2020 - Present*        
+*January 2020 - May-2020*        
 **Guide** : Dr. Joydeep Chandra
 
 Working on the applications of Deep learning and Natural Language Processing in the domain of social media.
