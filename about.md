@@ -21,7 +21,7 @@ The mathematical intuition behind the working of deep neural networks has enthra
 
 Apart from my research I am actively involved in different clubs and societies at IIT-Patna. I co-head the Machine Learning committee of the Computer Science club of IIT-Patna, and lead the Industrial Relations committee of the Entrepreneurship Cell. I also have experience in general software development, android development and competitive programming.
 
-### Education
+## Education
 
 * B.Tech Computer Science and Engineering - Indian Institute of Technology (IIT), Patna (2018-2022)
 
@@ -29,7 +29,7 @@ Apart from my research I am actively involved in different clubs and societies a
 
 * Schooling (10th std - ICSE) - The New Cambridge High School - Bengaluru
 
-### Computational Skills
+## Computational Skills
 
 **Programming Languages** - Python, C/C++, Java, Bash, Verilog, HTML, CSS
 
@@ -37,7 +37,7 @@ Apart from my research I am actively involved in different clubs and societies a
 
 **Other Tools**- SQL, Git/Github, Latex.
 
-### Languages
+## Languages
 
 **International** - English (Full Professional Proficiency), French (Basic Proficiency)
 
