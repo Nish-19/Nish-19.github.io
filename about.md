@@ -3,17 +3,29 @@ layout: page
 title: About
 permalink: /about/
 ---
-You can find my complete resume [here](https://nish-19.github.io/resume/nischal_resume.pdf)      
+You can find my complete resume [here](https://nish-19.github.io/resume/nischal_iitp.pdf)      
 
-I am in my third year of B.Tech in Computer Science and Engineering at the Indian Institute of Technology Patna. My interests lie in Machine Learning, Deep Learning, and its applications in Natural Language Processing and Computer Vision. I am actively involved in research projects at IIT - Patna. The mathematical intuition behind the working of deep neural networks has enthralled me. Deep learning has brought a revolution in various fields of science in terms of solving traditional problems. I am fascinated by the same and am currently in the pursuit of diving deep into it.
+I am in my third year of B.Tech in Computer Science and Engineering at the Indian Institute of Technology (IIT) Patna. I am primarily interested in research in Computer Science. My areas of interest include: -
 
-I am working in the AI-ML-NLP lab of IIT-P on the topic of  Document Level Novelty Detection and on building the academic chatbot for IIT-P. I am also working in the Data Analytics and Networks lab. Here, my work is based on deep learning, and NLP applied to social media. Being a team-worker, I have successfully contributed in various team projects. I have experience in software development, android application development, and competitive programming.
+* Machine Learning and Deep Learning
+
+* Natural Language Processing
+
+* AI for Social Good
+
+* Computer Vision
+
+* General Mathematics and Statistics
+
+The mathematical intuition behind the working of deep neural networks has enthralled me. My research is based on the applications of deep learning in the domains of Misinformation Detection, Drug Abuse Detection (Social Media), Document Level Novelty Detection and Adversarial Robustness. I have been working in the AI-NLP-ML lab of IIT-Patna since July 2019, and the VAL IISc from May - September 2020.
+
+Apart from my research I am actively involved in different clubs and societies at IIT-Patna. I co-head the Machine Learning committee of the Computer Science club of IIT-Patna, and lead the Industrial Relations committee of the Entrepreneurship Cell. I also have experience in general software development, android development and competitive programming.
 
 ### Education
 
-* B.Tech Computer Science and Engineering - Indian Institute of Technology Patna (2018-2022)
+* B.Tech Computer Science and Engineering - Indian Institute of Technology (IIT), Patna (2018-2022)
 
-* PUC (11th and 12th), VVS. Sardar Patel PU College - Bengaluru (Subjects - Phy, Chem, Maths, Electronics, English and Kannada)
+* Higher Secondary, VVS. Sardar Patel PU College - Bengaluru (Subjects - Physics, Chemistry, Mathematics, Electronics, English and Kannada)
 
 * Schooling (10th std - ICSE) - The New Cambridge High School - Bengaluru
 
@@ -26,4 +38,5 @@ Git/Github, Latex.
 
 ### Languages
 
-English, French, Kannada, Hindi, Telugu
+International - English (Full Professional Proficiency), French (Basic Proficiency)
+Indian - Kannada, Hindi, Telugu
