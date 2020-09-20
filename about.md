@@ -29,14 +29,16 @@ Apart from my research I am actively involved in different clubs and societies a
 
 * Schooling (10th std - ICSE) - The New Cambridge High School - Bengaluru
 
-### Programming Languages and tools
+### Computational Skills
 
-Python, C/C++, Java,
-Bash, Verilog, HTML,
-Tensorflow, Pytorch, MySql,
-Git/Github, Latex.
+**Programming Languages** - Python, C/C++, Java, Bash, Verilog, HTML, CSS
+
+**Deep Learning Tools** - Pytorch, Tensorflow, Keras
+
+**Other Tools**- SQL, Git/Github, Latex.
 
 ### Languages
 
-International - English (Full Professional Proficiency), French (Basic Proficiency)
-Indian - Kannada, Hindi, Telugu
+**International** - English (Full Professional Proficiency), French (Basic Proficiency)
+
+**Indian** - Kannada, Hindi, Telugu
