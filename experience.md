@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experience/ PORs
+title: Experience
 permalink: /workexperience/
 ---
 
