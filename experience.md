@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-permalink: /experience and POR/
+permalink: /workexperience/
 ---
 
 ## Research Intern / Indian Institute of Science Bangalore
