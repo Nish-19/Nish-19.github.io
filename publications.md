@@ -4,8 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-Exploring Adversarial Robustness in Deep Neural Networks
-Authors - Nischal A, Venkatesh Babu R - Report Accepted - Summer Research Fellowship Portal of the Indian Academy of Sciences (established by Nobel prize winning Indian scientist Sir. C.V Raman)
+**Exploring Adversarial Robustness in Deep Neural Networks**
+
+*Authors - Nischal A, Venkatesh Babu R* - Report Accepted - Summer Research Fellowship Portal of the Indian Academy of Sciences (established by Nobel prize winning Indian scientist Sir. C.V Raman)
 
 ## Projects
 
@@ -16,8 +17,8 @@ The aim of this project is to classify Reddit comments on Drug Abuse as motivati
 ### IIT-P Academic Chatbot
 Built a chatbot for the academic portal of IIT-Patna. Came up with a unique novel way of converting natural language data into SQL queries for information retrieval from the database. Worked under Prof. Phuspak Bhattacharya, director IIT-P and Professor of Computer Science IIT-Bombay.
 ### Document Level Novelty Detection
-• Modeled novelty detection of documents as a question-answering task based on a GRU (Gated-Recurrent Unit Architecture) (Dynamic Memory Networks). Procured huge data, organized, and pre-processed it. Built an annotation interface for annotation of documents on the sentence level.
+Modeled novelty detection of documents as a question-answering task based on a GRU (Gated-Recurrent Unit Architecture) (Dynamic Memory Networks). Procured huge data, organized, and pre-processed it. Built an annotation interface for annotation of documents on the sentence level.
 ### Drone Eye
-• Built an object detection - information retrieval system on a flying drone that would be used for disaster management.
+Built an object detection - information retrieval system on a flying drone that would be used for disaster management.
 ### Celesta and Anwesha Android App Development
-• Worked in the Android Application Development team of college fest apps. Added notification feature and integrated on app video viewing features.
+Worked in the Android Application Development team of college fest apps. Added notification feature and integrated on app video viewing features.
