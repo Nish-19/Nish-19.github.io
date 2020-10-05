@@ -23,9 +23,9 @@ Apart from my research I am actively involved in different clubs and societies a
 
 ## Education
 
-* B.Tech Computer Science and Engineering - Indian Institute of Technology (IIT), Patna (2018-2022)
+* B.Tech Computer Science and Engineering - *Indian Institute of Technology (IIT), Patna* (2018-2022)
 
-* Higher Secondary, VVS. Sardar Patel PU College - Bengaluru (Subjects - Physics, Chemistry, Mathematics, Electronics, English and Kannada)
+* Higher Secondary, *VVS. Sardar Patel PU College* - Bengaluru (Subjects - Physics, Chemistry, Mathematics, Electronics, English and Kannada)
 
 * Schooling (10th std - ICSE) - The New Cambridge High School - Bengaluru
 
