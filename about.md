@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-You can find my complete resume [here](https://nish-19.github.io/resume/nischal_iitp.pdf)      
 
 I am in my third year of B.Tech in Computer Science and Engineering at the Indian Institute of Technology (IIT) Patna. I am primarily interested in research in Computer Science. My areas of interest include: -
 
