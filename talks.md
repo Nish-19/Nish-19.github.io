@@ -23,3 +23,10 @@ Delivered talks in a two day workshop. Introduced students of IIT-Patna to the b
 **Machine Learning Sessions**             
 Details: Part of DSC and NJACK Clubs - 30th September 2019, 11th March 2020, 27th May 2020    
 Introduced various branches of ML and DL applied to NLP, Computer Vision and Reinforcement Learning. Held sessions on solving a classification problem through SVM (Support Vector Machine) and a clustering problem through K-Means
+
+# Talks organized
+
+**Data Driven Approach for Entrepreneurship**       
+Speaker: Dr. Om Deshmukh, CEO TildeHat Online Services, Bangalore      
+Details: Entrepreneur 101 Series, E-Cell IIT-Patna, 18th January 2020      
+Talk on making use of Data Analysis and ML techniques for helping in entrepreneurship.
