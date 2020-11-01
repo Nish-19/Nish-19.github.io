@@ -22,4 +22,4 @@ Delivered talks in a two day workshop. Introduced students of IIT-Patna to the b
 
 **Machine Learning Sessions**
 Details: Part of DSC and NJACK Clubs - 30th September 2019, 11th March 2020, 27th May 2020    
-Introduced various branches of ML like DL applied to NLP, Computer Vision and Reinforcement Learning. Held sessions on solving a classification problem through SVM (Support Vector Machine) and a clustering problem through K-Means
+Introduced various branches of ML and DL applied to NLP, Computer Vision and Reinforcement Learning. Held sessions on solving a classification problem through SVM (Support Vector Machine) and a clustering problem through K-Means
