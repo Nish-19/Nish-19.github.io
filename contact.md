@@ -11,5 +11,5 @@ You can write to me at: -
 Gmail: mailto:nischal.ashok09@gmail.com              
 Institute Address: mailto:1801cs33@iitp.ac.in         
 
-Other Links
+Other Links        
 Github: https://github.com/Nish-19
