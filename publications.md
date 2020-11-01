@@ -6,7 +6,8 @@ permalink: /publications/
 
 **Exploring Adversarial Robustness in Deep Neural Networks**
 
-*Authors* - [Nischal A](https://www.linkedin.com/in/nischal-ashok/), Venkatesh Babu R 
+*Authors* - [Nischal A](https://www.linkedin.com/in/nischal-ashok/), Venkatesh Babu R    
+
 Report Accepted - Summer Research Fellowship Portal of the Indian Academy of Sciences (established by Nobel prize winning Indian scientist Sir. C.V Raman)
 
 ## Projects
