@@ -14,7 +14,7 @@ Submitted - Information Processing and Management Journal (IPM) Elsevier (Impact
 
 *Authors* - [Nischal A](https://www.linkedin.com/in/nischal-ashok/), Venkatesh Babu R    
 Affiliation - Dept. of Computational and Data Sciences, Indian Institute of Science (IISc) Bangalore              
-Report Accepted - Summer Research Fellowship Portal of the Indian Academy of Sciences (established by Nobel prize winning Indian scientist Sir. C.V Raman)
+Journal Form Report Accepted - Summer Research Fellowship Portal of the Indian Academy of Sciences (established by Nobel prize winning Indian scientist Sir. C.V Raman)
 
 ## Projects
 
