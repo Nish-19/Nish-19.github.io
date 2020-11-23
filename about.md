@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am in my third year of B.Tech in Computer Science and Engineering at the Indian Institute of Technology (IIT) Patna. I am primarily interested in research in Computer Science. My areas of interest include: -
+I am in my third year of B.Tech in Computer Science and Engineering at the [Indian Institute of Technology (IIT) Patna](https://www.iitp.ac.in/index.php/en-us/). I am primarily interested in research in Computer Science. My areas of interest include: -
 
 * Machine Learning and Deep Learning
 
