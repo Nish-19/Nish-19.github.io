@@ -30,5 +30,5 @@ resumes. I implemented unsupervised algorithms and hierarchical classifier appro
 Worked on Reddit Drug Abuse Detection. Came up with a novel multi-head attention model to classify comments collected from reddit as motivational or not. Classification done on sub-categories like altruism, bad advice, hope.
 
 ## Position of Responsibilities
-* **Coordinator [Njack Machine Learning](https://njack.iitp.ac.in/team/index.html)** - I promote Machine Learning among the students of IIT-P by guiding them towards research, industry and the competitive aspects of ML.
+* **Lead [Njack Machine Learning](https://njack.iitp.ac.in/team/index.html)** - I promote Machine Learning among the students of IIT-P by guiding them towards research, industry and the competitive aspects of ML.
 * **Head Industrial Relations - [E-Cell IIT-Patna](http://ecell-iitp.org/)** - I manage a team of volunteers and sub-coordinators. Play a pivotal role in establishing contacts with eminent personalities from the industry.

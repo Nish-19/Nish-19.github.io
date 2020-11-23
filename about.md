@@ -16,7 +16,7 @@ I am in my third year of B.Tech in Computer Science and Engineering at the [Indi
 
 * General Mathematics and Statistics
 
-The mathematical intuition behind the working of deep neural networks has enthralled me. My research is based on the applications of deep learning in the domains of Misinformation Detection, Drug Abuse Detection (Social Media), Document Level Novelty Detection and Adversarial Robustness. I have been working in the AI-NLP-ML lab of IIT-Patna since July 2019, and the VAL IISc from May - September 2020.
+The mathematical intuition behind the working of deep neural networks has enthralled me. Some of my specific interests include, Computational Linguistics, Unsupervised and Semi-Supervised Learning, Representation Learning and Social-Media Analysis. My research is based on the applications of deep learning in the domains of Misinformation Detection, Drug Abuse Detection (Social Media), Document Level Novelty Detection and Adversarial Robustness. I have been working in the AI-NLP-ML lab of IIT-Patna since July 2019, and the VAL IISc from May - September 2020.
 
 Apart from my research I am actively involved in different clubs and societies at IIT-Patna. I co-head the Machine Learning committee of the Computer Science club of IIT-Patna, and lead the Industrial Relations committee of the Entrepreneurship Cell. I also have experience in general software development, android development and competitive programming.
 
@@ -30,9 +30,9 @@ Apart from my research I am actively involved in different clubs and societies a
 
 ## Computational Skills
 
-**Programming Languages** - Python, C/C++, Java, Bash, Verilog, HTML, CSS
+**Programming Languages** - Python, C, C++, Java, Bash, Verilog, HTML/ CSS
 
-**Deep Learning Tools** - Pytorch, Tensorflow, Keras
+**Deep Learning Tools** - Pytorch, Tensorflow, Keras, HuggingFace
 
 **Other Tools**- SQL, Git/Github, Latex.
 
