@@ -4,11 +4,16 @@ title: Experience
 permalink: /experience/
 ---
 
+<img style="float: right;" src="https://user-images.githubusercontent.com/41947720/102706062-910c9700-42b4-11eb-835a-a3d6708e6532.png">
+
 ## Research Intern / Indian Institute of Science Bangalore
 *May 2020 - Sept 2020*        
-**Guide** : Prof. R. Venkatesh Babu
+**Guide** : Prof. R. Venkatesh Babu     
 
-Worked in the [Video Analytics Laboratory (VAL)](http://val.serc.iisc.ernet.in/valweb/), department of Computational Data Sciences (CDS - IISc). Experimented with the state-of-the-art semi-supervised models for Adversarial Robustness. Came up with my own way of generating unlabeled data using DC-GANs and DE-GANs for improving adversarial robustness.
+* Worked in the [Video Analytics Laboratory (VAL)](http://val.serc.iisc.ernet.in/valweb/) under Prof. Venkatesh Babu
+* Experimented with the state-of-the-art adversarial deep learning algorithms based on semi-supervised learning.
+* Investigated the role of unlabelled data in improving adversarial robustness by proposing new loss functions and sourcing data from unrelated distributions.
+* Worked with DC-GANs and DE-GANs for accounting for unlabelled data in improving adversarial robustness in deep neural networks.
 
 <img style="float: right;" src="https://user-images.githubusercontent.com/41947720/102705910-a54f9480-42b2-11eb-89a0-8fafb8aca93f.png">
 
