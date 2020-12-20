@@ -24,6 +24,8 @@ permalink: /experience/
 * Worked previously on document level novelty detection and building a chatbot for the academic portal of IIT - Patna.
 * My co-authored papers are under review in top conferences and journals.
 
+<img style="float: right;" src="https://user-images.githubusercontent.com/41947720/102706252-412ecf80-42b6-11eb-988a-2b01563e70bc.jpg">
+
 ## Data Science Intern / [TildeHat Bangalore](https://www.tildehat.com/onboarding/)
 *Dec 2019*       
 **Advisor** : Dr. Om Deshmukh
