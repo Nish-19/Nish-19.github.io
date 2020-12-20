@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 
-<img style="float: right;" src="https://user-images.githubusercontent.com/41947720/102706062-910c9700-42b4-11eb-835a-a3d6708e6532.png">
+<img style="float: right;" src="https://user-images.githubusercontent.com/41947720/102706168-7a1a7480-42b5-11eb-8f71-b80e3bbfd817.jpg">
 
 ## Research Intern / Indian Institute of Science Bangalore
 *May 2020 - Sept 2020*        
