@@ -10,7 +10,7 @@ permalink: /experience/
 
 Worked in the [Video Analytics Laboratory (VAL)](http://val.serc.iisc.ernet.in/valweb/), department of Computational Data Sciences (CDS - IISc). Experimented with the state-of-the-art semi-supervised models for Adversarial Robustness. Came up with my own way of generating unlabeled data using DC-GANs and DE-GANs for improving adversarial robustness.
 
-<img style="float: right;" src="images/iitp_resize.png">
+<img style="float: left;" src="https://user-images.githubusercontent.com/41947720/102705910-a54f9480-42b2-11eb-89a0-8fafb8aca93f.png">
 
 ## Undergraduate Researcher / [AI - ML - NLP lab IIT Patna](http://www.iitp.ac.in/~ai-nlp-ml/)
 *July 2019 - Present*       
