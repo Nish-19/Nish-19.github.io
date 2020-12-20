@@ -10,7 +10,7 @@ permalink: /experience/
 *May 2020 - Sept 2020*        
 **Guide** : Prof. R. Venkatesh Babu     
 
-* Worked in the [Video Analytics Laboratory (VAL)](http://val.serc.iisc.ernet.in/valweb/) under Prof. Venkatesh Babu
+* Worked in the [Video Analytics Laboratory (VAL)](https://val.cds.iisc.ac.in/) under Prof. Venkatesh Babu
 * Experimented with the state-of-the-art adversarial deep learning algorithms based on semi-supervised learning.
 * Investigated the role of unlabelled data in improving adversarial robustness by proposing new loss functions and sourcing data from unrelated distributions.
 * Worked with DC-GANs and DE-GANs for accounting for unlabelled data in improving adversarial robustness in deep neural networks.
