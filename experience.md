@@ -27,11 +27,15 @@ permalink: /experience/
 <img style="float: right;" src="https://user-images.githubusercontent.com/41947720/102706252-412ecf80-42b6-11eb-988a-2b01563e70bc.jpg">
 
 ## Data Science Intern / [TildeHat Bangalore](https://www.tildehat.com/onboarding/)
-*Dec 2019*       
-**Advisor** : Dr. Om Deshmukh
+*Dec 2019*        
+**Advisor** : Dr. Om Deshmukh    
 
-Worked on unsupervised data retrieval. I designed a complete end-to-end module for useful information extraction from
-resumes. I implemented unsupervised algorithms and hierarchical classifier approaches for data-retrieval.
+* Worked on unsupervised data retrieval.
+* Designed a module for information extraction from Documents.
+* Converted pdf, doc documents to HTML format and parsed it using BeautifulSoup library of Python3.
+* Implemented unsupervised learning algorithms and hierarchical classifier approaches for data retrieval.
+* Conducted the experiment on over thousands of documents.
+
 
 ## Undergraduate Researcher / Data Analytics and Networks lab IIT Patna
 *January 2020 - May-2020*        
