@@ -29,7 +29,7 @@ Modeled novelty detection of documents as a question-answering task based on a G
 
 ### IIT-P Academic Chatbot
 
-*Guide*: Prof. Phuspak Bhattacharya
+*Guide*: Prof. Phuspak Bhattacharya     
 [Project Link](https://github.com/Nish-19/IIT_Patna_Academic_Chatbot)
 * Built a Sentiment Aware Intelligent Information Retrieval system for the academic portal of IIT-Patna.
 * Self-Designed the custom chatbot pipeline as per the need of the academic portal.
@@ -37,7 +37,7 @@ Modeled novelty detection of documents as a question-answering task based on a G
 
 ### 2-Pass Assembler and Emulator
 
-*Guide*: Dr. Jimson Mathew
+*Guide*: Dr. Jimson Mathew      
 [Project Link](https://github.com/Nish-19/Two_Pass_Assembler_Emulator)
 
 * Built an Assembler and Emulator in C Language for the given assembly Language
@@ -46,7 +46,7 @@ Modeled novelty detection of documents as a question-answering task based on a G
 
 ### Smart Lock System
 
-*Guide*: Dr. Jimson Mathew
+*Guide*: Dr. Jimson Mathew           
 [Project Link](https://github.com/Nish-19/Smart_Lock_System)
 
 * A deep learning based finite-state implementation of a smart lock System
