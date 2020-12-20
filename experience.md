@@ -48,13 +48,11 @@ Worked on Reddit Drug Abuse Detection. Came up with a novel multi-head attention
 
 ## Position of Responsibilities
 * **Head [Njack Machine Learning](https://njack.iitp.ac.in/team/index.html)** -
-  * Njack is the official Computer Science Club of IIT-Patna.
-  * I co-head the Machine Learning division of Njack.
+  * I co-head the Machine Learning division of Njack, the official Computer Science Club of IIT-Patna.
   * My responsibility includes promoting Machine Learning among the students of IIT-P by guiding them towards industry, research and competitive aspects of ML.
   * Guide the students in learning to code and develop an interest in computer science
 * **Head Industrial Relations - [E-Cell IIT-Patna](http://ecell-iitp.org/)** -
   * Entrepreneurship Cell IIT - Patna, is the body responsible for promoting entrepreneurial culture among the students of IIT - Patna.
-  * I head the Industrial Relations committee of the cell.
-  * Manage a group of sub-coordinators and volunteers.
+  * As the head of the IR committee, I manage a group of sub-coordinators and volunteers.
   * Play a key role in establishing contact with eminent personalities working in the industry.
-  * Worked with the team to organize, manage and conduct various workshops on entrepreneurship.
+  * Work with the team to organize, manage and conduct various workshops on entrepreneurship.
