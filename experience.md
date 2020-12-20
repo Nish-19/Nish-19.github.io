@@ -4,9 +4,11 @@ title: Experience
 permalink: /experience/
 ---
 
+## Research Experience
+
 <img style="float: right;" src="https://user-images.githubusercontent.com/41947720/102706168-7a1a7480-42b5-11eb-8f71-b80e3bbfd817.jpg">
 
-## Research Intern / Indian Institute of Science Bangalore
+### Research Intern / Indian Institute of Science Bangalore
 *May 2020 - Sept 2020*        
 **Guide** : Prof. R. Venkatesh Babu     
 
@@ -17,16 +19,24 @@ permalink: /experience/
 
 <img style="float: right;" src="https://user-images.githubusercontent.com/41947720/102705910-a54f9480-42b2-11eb-89a0-8fafb8aca93f.png">
 
-## Undergraduate Researcher / [AI - ML - NLP lab IIT Patna](http://www.iitp.ac.in/~ai-nlp-ml/)
+### Undergraduate Researcher / [AI - ML - NLP lab IIT Patna](http://www.iitp.ac.in/~ai-nlp-ml/)
 *July 2019 - Present*             
 **Guides** : Dr. Asif Ekbal and Prof. Phuspak Bhattacharya        
 * I am working on misinformation detection.
 * Worked previously on document level novelty detection and building a chatbot for the academic portal of IIT - Patna.
 * My co-authored papers are under review in top conferences and journals.
 
+### Undergraduate Researcher / Data Analytics and Networks lab IIT Patna
+*January 2020 - May-2020*        
+**Guide** : Dr. Joydeep Chandra
+
+Worked on Reddit Drug Abuse Detection. Came up with a novel multi-head attention model to classify comments collected from reddit as motivational or not. Classification done on sub-categories like altruism, bad advice, hope.
+
+## Industry Experience
+
 <img style="float: right;" src="https://user-images.githubusercontent.com/41947720/102706252-412ecf80-42b6-11eb-988a-2b01563e70bc.jpg">
 
-## Data Science Intern / [TildeHat Bangalore](https://www.tildehat.com/onboarding/)
+### Data Science Intern / [TildeHat Bangalore](https://www.tildehat.com/onboarding/)
 *Dec 2019*        
 **Advisor** : Dr. Om Deshmukh    
 
@@ -36,13 +46,15 @@ permalink: /experience/
 * Implemented unsupervised learning algorithms and hierarchical classifier approaches for data retrieval.
 * Conducted the experiment on over thousands of documents.
 
-
-## Undergraduate Researcher / Data Analytics and Networks lab IIT Patna
-*January 2020 - May-2020*        
-**Guide** : Dr. Joydeep Chandra
-
-Worked on Reddit Drug Abuse Detection. Came up with a novel multi-head attention model to classify comments collected from reddit as motivational or not. Classification done on sub-categories like altruism, bad advice, hope.
-
 ## Position of Responsibilities
-* **Lead [Njack Machine Learning](https://njack.iitp.ac.in/team/index.html)** - I promote Machine Learning among the students of IIT-P by guiding them towards research, industry and the competitive aspects of ML.
-* **Head Industrial Relations - [E-Cell IIT-Patna](http://ecell-iitp.org/)** - I manage a team of volunteers and sub-coordinators. Play a pivotal role in establishing contacts with eminent personalities from the industry.
+* **Head [Njack Machine Learning](https://njack.iitp.ac.in/team/index.html)** -
+  * Njack is the official Computer Science Club of IIT-Patna.
+  * I co-head the Machine Learning division of Njack.
+  * My responsibility includes promoting Machine Learning among the students of IIT-P by guiding them towards industry, research and competitive aspects of ML.
+  * Guide the students in learning to code and develop an interest in computer science
+* **Head Industrial Relations - [E-Cell IIT-Patna](http://ecell-iitp.org/)** -
+  * Entrepreneurship Cell IIT - Patna, is the body responsible for promoting entrepreneurial culture among the students of IIT - Patna.
+  * I head the Industrial Relations committee of the cell.
+  * Manage a group of sub-coordinators and volunteers.
+  * Play a key role in establishing contact with eminent personalities working in the industry.
+  * Worked with the team to organize, manage and conduct various workshops on entrepreneurship.
