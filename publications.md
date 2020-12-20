@@ -16,17 +16,47 @@ Submitted - Information Processing and Management Journal (IPM) Elsevier (Impact
 Affiliation - Dept. of Computational and Data Sciences, Indian Institute of Science (IISc) Bangalore              
 Journal Form Report Accepted - Summer Research Fellowship Portal of the Indian Academy of Sciences (established by Nobel prize winning Indian scientist Sir. C.V Raman)
 
-## Projects
+## Research Projects
 
 ### Misinformation Detection
 Came up with a novel architecture and modeled Misinformation Detection tasks using novelty and emotion of the fake-news data. Generated novelty and emotion aware embeddings for the final classification of fake news. Achieved a 7.92% improvement over the previous state of the art results on the ByteDance dataset and our paper is submitted to an A* Grade International Conference (Top in AI)
 ### Reddit Drug Abuse Detection
 The aim of this project is to classify Reddit comments on Drug Abuse as motivational or not. I built a multi-head attention deep neural network for doing the same. My model also classifies the comments into sub-categories of altruism, hope, good advice, bad advice, and universality. The project was done under the supervision of Dr. Joydeep Chandra of the Data Analytics and Networks Lab - IIT Patna
-### IIT-P Academic Chatbot
-Built a chatbot for the academic portal of IIT-Patna. Came up with a unique novel way of converting natural language data into SQL queries for information retrieval from the database. Worked under Prof. Phuspak Bhattacharya, director IIT-P and Professor of Computer Science IIT-Bombay.
 ### Document Level Novelty Detection
 Modeled novelty detection of documents as a question-answering task based on a GRU (Gated-Recurrent Unit Architecture) (Dynamic Memory Networks). Procured huge data, organized, and pre-processed it. Built an annotation interface for annotation of documents on the sentence level.
+
+## Academic Projects
+
+### IIT-P Academic Chatbot
+
+*Guide*: Prof. Phuspak Bhattacharya
+[Project Link](https://github.com/Nish-19/IIT_Patna_Academic_Chatbot)
+* Built a Sentiment Aware Intelligent Information Retrieval system for the academic portal of IIT-Patna.
+* Self-Designed the custom chatbot pipeline as per the need of the academic portal.
+* Discovered/ Implemented a unique way of converting natural language data into SQL (Structured-Query-Language) for information retrieval from the database.
+
+### 2-Pass Assembler and Emulator
+
+*Guide*: Dr. Jimson Mathew
+[Project Link](https://github.com/Nish-19/Two_Pass_Assembler_Emulator)
+
+* Built an Assembler and Emulator in C Language for the given assembly Language
+* Assembler reads the assembly file and produces a list and an object file
+* Emulator takes the object file as input and provides the "trace" of execution and the memory dump
+
+### Smart Lock System
+
+*Guide*: Dr. Jimson Mathew
+[Project Link](https://github.com/Nish-19/Smart_Lock_System)
+
+* A deep learning based finite-state implementation of a smart lock System
+* Provided two-level security to the lock i.e. facial recognition and pin lock system.
+* Implemented face-recognition using openCV and the finite state machine in Verilog
+
+## Development Projects
+
 ### Drone Eye
 Built an object detection - information retrieval system on a flying drone that would be used for disaster management.
+
 ### Celesta and Anwesha Android App Development
 Worked in the Android Application Development team of college fest apps. Added notification feature and integrated on app video viewing features.
