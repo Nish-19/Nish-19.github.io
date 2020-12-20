@@ -13,9 +13,11 @@ Worked in the [Video Analytics Laboratory (VAL)](http://val.serc.iisc.ernet.in/v
 <img style="float: right;" src="https://user-images.githubusercontent.com/41947720/102705910-a54f9480-42b2-11eb-89a0-8fafb8aca93f.png">
 
 ## Undergraduate Researcher / [AI - ML - NLP lab IIT Patna](http://www.iitp.ac.in/~ai-nlp-ml/)
-*July 2019 - Present*       
-**Guides** : Dr. Asif Ekbal and Prof. Phuspak Bhattacharya
-I am working on misinformation detection. Worked previously on document level novelty detection and building a chatbot for the academic portal of IIT - Patna. I Have submitted papers to top conferences and journals.
+*July 2019 - Present*             
+**Guides** : Dr. Asif Ekbal and Prof. Phuspak Bhattacharya        
+* I am working on misinformation detection.
+* Worked previously on document level novelty detection and building a chatbot for the academic portal of IIT - Patna.
+* My co-authored papers are under review in top conferences and journals.
 
 ## Data Science Intern / [TildeHat Bangalore](https://www.tildehat.com/onboarding/)
 *Dec 2019*       
