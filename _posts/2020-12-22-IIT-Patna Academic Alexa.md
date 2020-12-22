@@ -2,6 +2,7 @@
 layout: post
 title: IIT-Patna Academic Alexa
 ---
+<img width="547" alt="basic" src="https://user-images.githubusercontent.com/41947720/102855734-2e013880-444b-11eb-82ba-7c5b845dbdb1.png">
 
 In this post, I will take you through the Chatbot IIT-Patna Academic Alexa which is a sentiment-aware intelligent information retrieval based system for the academic portal of IIT-P.
 
@@ -81,8 +82,8 @@ For coming up with the idea, the following steps were performed: -
 * Decided to use the “Syntax” and “Lexical Semantics” of the natural language data
 * Hypothesized about using Part-of-Speech-Tagging
 * Investigated the problem by using “Dependency Tree Parsers”
-* Developed a basic tree-parsing algorithm for List and What questions
-* Improvised and proposed a DFS (Depth-First-Search) algorithm for How many, Who and What questions.
+* Developed a basic tree-parsing algorithm for the questions.
+* Implemented a DFS (Depth-First-Search) approach for certain type of questions (done by my classmate Vaibhav, details of which can be found in the code repo)
 
 Sample pseudocode for "list question" conversion is given below
 
@@ -181,6 +182,8 @@ Implementation done using Vader-Sentiment-Analysis
 * Sentiment of all sentences are averaged to determine the overall sentiment of the user
 
 Hence this completes the summary of all the modules used in the chatbot pipeline.
+
+<img width="545" alt="db_query" src="https://user-images.githubusercontent.com/41947720/102855769-3e191800-444b-11eb-8b4e-61ce38d36591.png">
 
 This was a team project and here in this blog I have taken you through my part of the project. There is much more to this like the final interface, data analysis etc. which was done by my classmates at IIT-Patna.
 
