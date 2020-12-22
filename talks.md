@@ -17,7 +17,7 @@ Date: 21st and 22nd October 2020.
 ## DSC Research Discussion
   * **Dynamic Memory Networks for NLP**  
   Date: 30th August, 2019        
-  Details: Spoke about the DMN architecture and its uses in general tasks in Natural Language Processing like Question Answering, Novelty Detection.
+  Details: Spoke about the DMN architecture and its uses in general tasks in Natural Language Processing like Question Answering, Novelty Detection.      
   [Link](https://github.com/dsciitpatna/ML-AI-Meetups/blob/master/ML-Paper-Discussion/Topics_Discussed.md)     
 
 
