@@ -19,7 +19,7 @@ To address this task we set out to come up with a chatbot which takes Natural La
 
 ## Chatbot Pipeline
 
-![multichannelcnn](https://user-images.githubusercontent.com/41947720/102853331-1f645280-4446-11eb-95aa-098c50388d41.png)
+![pipeline_diagram](https://user-images.githubusercontent.com/41947720/102854443-8f73d800-4448-11eb-9648-302559da675c.png)
 
 Components of the Custom-Designed Pipeline of IIT-P Academic Alexa: -
 1. Input Module
