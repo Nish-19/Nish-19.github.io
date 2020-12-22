@@ -47,6 +47,9 @@ Worked on Reddit Drug Abuse Detection. Came up with a novel multi-head attention
 * Conducted the experiment on over thousands of documents.
 
 ## Position of Responsibilities
+
+<img style="float: right;" src="https://user-images.githubusercontent.com/41947720/102842061-21b9b300-442c-11eb-83e3-7bd98fec5f2e.jpg">
+
 * **Head [Njack Machine Learning](https://njack.iitp.ac.in/team/index.html)** -
   * I co-head the Machine Learning division of Njack, the official Computer Science Club of IIT-Patna.
   * My responsibility includes promoting Machine Learning among the students of IIT-P by guiding them towards industry, research and competitive aspects of ML.
