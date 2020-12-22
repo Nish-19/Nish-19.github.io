@@ -3,14 +3,16 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
-**Research Opportunities in Machine Learning**         
-Details: [NJACK ML](https://github.com/Njack-IITP/ML_Discussions/blob/main/ML_Research/Discussions.md) Online Workshop October 2020       
-Talk on applying for research internships in ML and the opportunities available.
+## Njack Machine Learning Workshop
+Date: 21st and 22nd October 2020.
+  * **Research Opportunities in Machine Learning**                
+  Details: Talk on general research in Machine Learning and applying for research internships and the relevant opportunities available.      
+  [Link](https://github.com/Njack-IITP/ML_Discussions/blob/main/ML_Research/Discussions.md)
 
-**Competitive Machine Learning Session**           
-Details: [NJACK ML](https://github.com/Njack-IITP/ML_Discussions/blob/main/Competitive_ML/Discussions.md) Online Workshop October 2020     
-Co-Speakers: Akshat Porwal, Aditya Samantaroy, Gul Jain      
-Taught students about the general pipeline of approaching and solving a typical ML problem taken from Kaggle. Introduced students to various libraries like Numpy, Pandas and Matplotlib.
+  * **Competitive Machine Learning Session**        
+  Details: Taught students about the general pipeline of approaching and solving a typical ML problem taken from Kaggle. Introduced students to various libraries like Numpy, Pandas and Matplotlib.           
+  [Link](https://github.com/Njack-IITP/ML_Discussions/blob/main/Competitive_ML/Discussions.md)             
+  Co-Speakers: Akshat Porwal, Aditya Samantaroy, Gul Jain           
 
 **Dynamic Memory Networks for NLP**        
 Details: [DSC Research Discussions](https://github.com/dsciitpatna/ML-AI-Meetups/blob/master/ML-Paper-Discussion/Topics_Discussed.md) 30th August 2019     
