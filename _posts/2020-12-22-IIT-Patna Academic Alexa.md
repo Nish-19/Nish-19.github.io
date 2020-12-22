@@ -187,6 +187,6 @@ Hence this completes the summary of all the modules used in the chatbot pipeline
 
 This was a team project and here in this blog I have taken you through my part of the project. There is much more to this like the final interface, data analysis etc. which was done by my classmates at IIT-Patna.
 
-You can find the code for this project at https://github.com/Nish-19/IIT_Patna_Academic_Chatbot
+[You can find the code for this project on GitHub here.](https://github.com/Nish-19/IIT_Patna_Academic_Chatbot) 
 
 Stay tuned for more ML and DL content!
