@@ -114,3 +114,76 @@ Implementation Details:
 * Step 1: Authorization
 * Step 2: Creating a cursor pointing to the database
 * Step 3: Provide the query in form of string and process the returned output
+
+<img style="float: right;" width="369" alt="pipeline_nltk" src="https://user-images.githubusercontent.com/41947720/102854729-204ab380-4449-11eb-8504-fffc4742c87f.png">
+
+### NLTK Chat
+
+* Based on NLTK (Natural Language Toolkit) library
+* Chat Provision for Regular (Non-Database) queries like Hello, Thank You etc.
+* Based on simple regex (Regular Expression) matching of queries
+* Pairs variable coded by the programmer contains predefined regex query -> output mapping
+* Reflections variable contains pronouns mapping from question to answer
+* Lightweight and easy to use
+* Helps make the chatbot more interesting by incorporating daily life conversations
+
+<img style="float: right;" width="374" alt="pipeline_feedback" src="https://user-images.githubusercontent.com/41947720/102854801-4b350780-4449-11eb-99dd-4d41adb30bd1.png">
+
+### Feedback Module
+
+* Practical software systems cannot be infallible. Feedback is the means of striving towards perfection.
+* Two steps:-
+  * Sentence Similarity
+  * Data Collection
+
+#### Sentence Similarity Module
+
+<img width="902" alt="sentence_similarity" src="https://user-images.githubusercontent.com/41947720/102854893-846d7780-4449-11eb-9008-1902fb0a8d82.png">
+
+#### Feedback Data Collection
+
+Continuous data is collected from the users/ testers
+1. Sentence Similarity module: -
+  * Misclassification of input query is tackled
+  * The specific text followed by the feedback label is recorded
+  * Feedback label is either database or non-database tag labelled by the user
+2. NL-SQL Module:-
+  * NL-SQL misconversion is tackled
+  * The input query is recorded in a csv file and the file is forwarded to the code maintainer
+3. NLTK Chat Module: -
+  * Tackles Regular chat which is not present in the pre-defined chat pair
+  * The input query is recorded in a csv file and the file is forwarded to the code maintainer
+
+#### Continual Learning/ Online Training
+
+* Ability of a Machine Learning model to learn continually from a stream of data
+* Is of prime importance in production environments
+* User feedback is stored in a separate csv file
+* Sentence Classifier module learns from the collected feedback data at regular intervals of time
+* The classifier learns with time and hence becomes better
+
+<img width="372" alt="pipeline_sentiment" src="https://user-images.githubusercontent.com/41947720/102855074-e9c16880-4449-11eb-93cb-69bbfc111eb6.png">
+
+### Sentiment Analysis Module
+
+* We carry out sentiment analysis of all users using the chatbot platform
+* Sentiment of students when chatting with the chatbot can give various insights
+  * Mental state of the student
+  * Overall satisfaction of group of students with the results/marks obtained
+Implementation done using Vader-Sentiment-Analysis
+
+* VADER is a rule-based sentiment analysis tool  which does lexicon based scoring
+* Sentiment scores are between -1 and 1
+* Sentiment score of:
+  * 0 is neutral
+  * Less than -0.05 is negative
+  * Greater than 0.05 is positive
+* Sentiment of all sentences are averaged to determine the overall sentiment of the user
+
+Hence this completes the summary of all the modules used in the chatbot pipeline.
+
+This was a team project and here in this blog I have taken you through my part of the project. There is much more to this like the final interface, data analysis etc. which was done by my classmates at IIT-Patna.
+
+You can find the code for this project at https://github.com/Nish-19/IIT_Patna_Academic_Chatbot
+
+Stay tuned for more ML and DL content!
