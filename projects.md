@@ -38,21 +38,21 @@ permalink: /projects/
 * Self-Designed the custom chatbot pipeline as per the need of the academic portal.
 * Discovered/ Implemented a unique way of converting natural language data into SQL (Structured-Query-Language) for information retrieval from the database.
 
-### 2-Pass Assembler and Emulator
+### Two-Pass Assembler and Emulator
 
 *Guide*: Dr. Jimson Mathew      
 [Project Link](https://github.com/Nish-19/Two_Pass_Assembler_Emulator)
 
 * Built an Assembler and Emulator in C Language for the given assembly Language
 * Assembler reads the assembly file and produces a list and an object file
-* Emulator takes the object file as input and provides the "trace" of execution and the memory dump
+* Emulator links and executes the object file and provides the "trace" of execution and the memory dump
 
 ### Smart Lock System
 
 *Guide*: Dr. Jimson Mathew           
 [Project Link](https://github.com/Nish-19/Smart_Lock_System)
 
-* A deep learning based finite-state implementation of a smart lock System
+* A deep learning based finite-state machine implementation of a smart lock System
 * Provided two-level security to the lock i.e. facial recognition and pin lock system.
 * Implemented face-recognition using openCV and the finite state machine in Verilog
 
