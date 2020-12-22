@@ -83,7 +83,9 @@ For coming up with the idea, the following steps were performed: -
 * Hypothesized about using Part-of-Speech-Tagging
 * Investigated the problem by using “Dependency Tree Parsers”
 * Developed a basic tree-parsing algorithm for the questions.
-* Implemented a DFS (Depth-First-Search) approach for certain type of questions (done by my classmate Vaibhav, details of which can be found in the code repo)
+* Implemented a DFS (Depth-First-Search) approach for certain type of questions
+
+The NL-SQL part of the project was done by me and my classmate Vaibhav.
 
 Sample pseudocode for "list question" conversion is given below
 
@@ -187,6 +189,6 @@ Hence this completes the summary of all the modules used in the chatbot pipeline
 
 This was a team project and here in this blog I have taken you through my part of the project. There is much more to this like the final interface, data analysis etc. which was done by my classmates at IIT-Patna.
 
-[You can find the code for this project on GitHub here.](https://github.com/Nish-19/IIT_Patna_Academic_Chatbot) 
+[You can find the code for this project on GitHub here.](https://github.com/Nish-19/IIT_Patna_Academic_Chatbot)
 
 Stay tuned for more ML and DL content!
