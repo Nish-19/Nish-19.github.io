@@ -55,7 +55,7 @@ Worked on Reddit Drug Abuse Detection. Came up with a novel multi-head attention
   * My responsibility includes promoting Machine Learning among the students of IIT-P by guiding them towards industry, research and competitive aspects of ML.
   * Guide the students in learning to code and develop an interest in computer science
 
-<img style="float: right;" src="https://user-images.githubusercontent.com/41947720/102842331-b9b79c80-442c-11eb-83df-0831baef5e46.png">
+<img style="float: right;" src="https://user-images.githubusercontent.com/41947720/102842519-26329b80-442d-11eb-83b9-bd01ad01fcff.png">
 
 * **Head Industrial Relations - [E-Cell IIT-Patna](http://ecell-iitp.org/)** -
   * Entrepreneurship Cell IIT - Patna, is the body responsible for promoting entrepreneurial culture among the students of IIT - Patna.
