@@ -173,6 +173,8 @@ Continuous data is collected from the users/ testers
 * Sentiment of students when chatting with the chatbot can give various insights
   * Mental state of the student
   * Overall satisfaction of group of students with the results/marks obtained
+
+
 Implementation done using Vader-Sentiment-Analysis
 
 * VADER is a rule-based sentiment analysis tool  which does lexicon based scoring
