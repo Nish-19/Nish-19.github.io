@@ -37,7 +37,7 @@ Worked on Reddit Drug Abuse Detection. Came up with a novel multi-head attention
 <img style="float: right;" src="https://user-images.githubusercontent.com/41947720/102706252-412ecf80-42b6-11eb-988a-2b01563e70bc.jpg">
 
 ### Data Science Intern / [TildeHat Bangalore](https://www.tildehat.com/onboarding/)
-*Dec 2019*        
+*Dec 2019 - Jan 2020*        
 **Advisor** : Dr. Om Deshmukh    
 
 * Worked on unsupervised data retrieval.
