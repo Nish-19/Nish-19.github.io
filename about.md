@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img style="float: right;" src="https://user-images.githubusercontent.com/41947720/105724167-944b1080-5f4d-11eb-92ac-a13049a96e43.png">
+<img style="float: right;" src="https://user-images.githubusercontent.com/41947720/105724962-687c5a80-5f4e-11eb-86d9-4a635f9f9cc0.jpg">
 
 I am in my third year of B.Tech in Computer Science and Engineering at the [Indian Institute of Technology (IIT) Patna](https://www.iitp.ac.in/index.php/en-us/). I am primarily interested in research in Computer Science. My areas of interest include: -
 
