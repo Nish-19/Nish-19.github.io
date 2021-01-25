@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<img style="float: right;" src="https://user-images.githubusercontent.com/41947720/105724962-687c5a80-5f4e-11eb-86d9-4a635f9f9cc0.jpg">
+<img style="float: right;" src="https://user-images.githubusercontent.com/41947720/105725412-efc9ce00-5f4e-11eb-9a27-f445f720e0ea.png">
 
-I am in my third year of B.Tech in Computer Science and Engineering at the [Indian Institute of Technology (IIT) Patna](https://www.iitp.ac.in/index.php/en-us/). I am primarily interested in research in Computer Science. My areas of interest include: -
+I am a third year undergraduate Computer Science student at the [Indian Institute of Technology (IIT) Patna](https://www.iitp.ac.in/index.php/en-us/). I am primarily interested in research in Computer Science. My areas of interest include: -
 
 * Machine Learning and Deep Learning
 
@@ -26,7 +26,7 @@ Apart from my research I am actively involved in different clubs and societies a
 
 * B.Tech Computer Science and Engineering - *Indian Institute of Technology (IIT), Patna* (2018-2022)
 
-* Higher Secondary, *VVS. Sardar Patel PU College* - Bengaluru (Subjects - Physics, Chemistry, Mathematics, Electronics, English and Kannada)
+* Higher Secondary, *VVS. Sardar Patel PU College* - Bengaluru (Subjects - Physics, Chemistry, Mathematics, Electronics)
 
 * Schooling (10th std - ICSE) - The New Cambridge High School - Bengaluru
 
@@ -42,4 +42,4 @@ Apart from my research I am actively involved in different clubs and societies a
 
 **International** - English (Full Professional Proficiency), French (Basic Proficiency)
 
-**Indian** - Kannada, Hindi, Telugu
+**Indian** - Hindi, Kannada, Telugu
