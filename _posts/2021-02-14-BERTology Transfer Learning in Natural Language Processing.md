@@ -29,7 +29,7 @@ Using the decoder layer of transformers, we could train it for language modellin
 
 | ![bert_pretraining](https://user-images.githubusercontent.com/41947720/107882867-ba8f1b00-6f11-11eb-977e-d70bf217df0f.png) |
 |:--:|
-| *Bert Pre-Training Procedure* |
+| *BERT Pre-Training Procedure* |
 
 Well, everything fine until now. But there is a catch. The above mentioned decoder architecture of Transformers doesn’t learn “bi-directional” contextualized embeddings making it less sophisticated in comparison to ELMo (Bi-Directional LSTM based architecture for generating dynamic contextualized embeddings).
 
