@@ -1,9 +1,10 @@
 ---
 layout: post
-title: BERTology Transfer Learning in Natural Language Processing
+title: BERTology: Transfer Learning in Natural Language Processing
 ---
 
 ![initial_googleai](https://user-images.githubusercontent.com/41947720/107882848-9c291f80-6f11-11eb-8dc1-f33ea0e2f428.png)
+*BERT: Taken from Google AI*
 
 Representation Learning is of prime importance in supervised learning tasks, it is ultimately the representations of the input data which play a major role in determining the performance of the model. Having said this, there are scenarios where learning representations of the input data requires transferring of knowledge from related but different tasks. This is where transfer learning comes in. Transfer Learning helps us to utilize a more generalizable set of features and fine-tune them for the downstream task. To know more about transfer learning please go through my blog [linked here](https://nish-19.github.io/Transfer-Learning/)
 
