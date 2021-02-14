@@ -35,7 +35,8 @@ Well, everything fine until now. But there is a catch. The above mentioned decod
 
 Well, BERT said why not combine the idea of both ELMo and Transformers?
 
-BERT uses the transformer encoder part and trains a “masked language model” randomly masking 15% of its input tokens. The task is to predict these tokens correctly.
+BERT stands for Bidirectional Encoder Representations from Transformers.
+It uses the transformer encoder part and trains a “masked language model” randomly masking 15% of its input tokens. The task is to predict these tokens correctly.
 
 Now for incorporating sentence level knowledge, BERT introduces another task in the pre-training – “The next sentence prediction”.
 The task here is to determine if the second sentence follows the first one. For doing so, BERT introduces its special way of tokenization. The first token outputted by BERT is the <CLS> token which contains information about the next sentence classification task. Apart from this the two sentences are separated by a special <SEP> token.
@@ -101,4 +102,10 @@ Having finished the tokenization phase we can now either train a classifier on t
 
 [The entire code for this can be found on my GitHub repository here.](https://github.com/Nish-19/BERT_Tutorial) Please do check it out.
 
-For in-depth understanding of how BERT works, I strongly recommend going through [this](http://jalammar.github.io/illustrated-bert/) awesome blog written by Jay Ammar.
+References and Acknowledgements:
+1. Jay Ammar's Blogs on Transformers and BERT
+  * [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+  * [Illustrated BERT](http://jalammar.github.io/illustrated-bert/)
+  * [Using BERT for The First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
+2. [Transformers: Attention is All you need](https://arxiv.org/abs/1706.03762)
+3. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
