@@ -93,57 +93,9 @@ For normal words 1 is used as masking number. For padding tokens 0 is used as th
 
 **Token_Type_Ids** – This is a special id which marks the difference between the pair of sentences in case of a sentence pair input. The first sentence from the <CLS> token till the <SEP> is represented by 0 and the second sentence uptil <SEP> is represented by 1.
 
-The code snippet performing tokenization is given below
-
-``` Python
-def tokenize(model_name, premise_data, hypothesis_data, tokenizer, MAX_LEN):
-	print('Tokenizing')
-	# add special tokens for BERT to work properly
-	sentences = ["[CLS] " + premise_data[i] + " [SEP]" + hypothesis_data[i] + "[SEP]" for i in range(0,len(premise_data))]
-	tokenized_texts = [tokenizer.tokenize(sent) for sent in sentences]
-	print ("Tokenize the first sentence:")
-	print (tokenized_texts[0])
-	# Pad our input tokens
-	input_ids = pad_sequences([tokenizer.convert_tokens_to_ids(txt) for txt in tokenized_texts],
-	                          maxlen=MAX_LEN, dtype="long", truncating="post", padding="post")
-	# Use the BERT tokenizer to convert the tokens to their index numbers in the BERT vocabulary
-	input_ids = [tokenizer.convert_tokens_to_ids(x) for x in tokenized_texts]
-	input_ids = pad_sequences(input_ids, maxlen=MAX_LEN, dtype="long", truncating="post", padding="post")
-	# Create attention masks
-	attention_masks = []
-	# Create a mask of 1s for each token followed by 0s for padding
-	for seq in input_ids:
-	  seq_mask = [float(i>0) for i in seq]
-	  attention_masks.append(seq_mask)
-
-	# Printing the input_ids
-	print('Input_ids[0]', input_ids[0])
-	print('Input_ids[0] elements')
-	for i in input_ids[0]:
-		print(i, type(i), end = " ")
-
-	token_type_ids = []
-	for seq in input_ids:
-		type_id = []
-		condition = 'sent1'
-		for i in seq:
-			if condition == 'sent1':
-				type_id.append(0)
-				if i == 102:
-					condition = 'sent2'
-			elif condition == 'sent2':
-				type_id.append(1)
-		token_type_ids.append(type_id)
-	print(token_type_ids[0])
-
-
-	# Finally convert this into torch tensors
-	data_inputs = torch.tensor(input_ids, device =device)
-	data_masks = torch.tensor(attention_masks, device =device)
-	data_token_ids = torch.tensor(token_type_ids, device = device)
-	return data_inputs, data_masks, data_token_ids
-```
-
+| <img width="533" alt="code" src="https://user-images.githubusercontent.com/41947720/107883661-34290800-6f16-11eb-9d61-efe69b3e8ae2.png"> |
+|:--:|
+| *Code Snippet for automatic Tokenization. For manual tokenization check my GitHub link* |
 
 Having finished the tokenization phase we can now either train a classifier on top of the embeddings obtained from BERT or we could tune the entire BERT architecture for about 2-4 epochs. In general, it is observed that fine-tuning gives better performance over using the embeddings directly.
 
