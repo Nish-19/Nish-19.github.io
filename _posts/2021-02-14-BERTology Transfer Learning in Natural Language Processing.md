@@ -15,7 +15,9 @@ I will focus on the description of BERT and talk about using them in your works 
 
 ## Motivation
 
-![transformers](https://user-images.githubusercontent.com/41947720/107882859-aba86880-6f11-11eb-9bc2-182fcda289f3.png)
+| ![transformers](https://user-images.githubusercontent.com/41947720/107882859-aba86880-6f11-11eb-9bc2-182fcda289f3.png) |
+|:--:|
+| *Transformers: Image from Jay Ammar* |
 
 The 2017 OpenAI’s paper ["Transformers: Attention is all you need"](https://arxiv.org/abs/1706.03762) brought about a revolution in the field of deep learning in natural language processing by performing better than traditional recurrent neural network architectures like LSTMs and GRUs. Transformers, in general are seen to handle long term dependencies in text better than LSTMs and this led to them performing significantly better than LSTM based architectures on tasks like Machine Translation.
 
@@ -25,7 +27,9 @@ Using the decoder layer of transformers, we could train it for language modellin
 
 ## Entry of BERT
 
-![bert_pretraining](https://user-images.githubusercontent.com/41947720/107882867-ba8f1b00-6f11-11eb-977e-d70bf217df0f.png)
+| ![bert_pretraining](https://user-images.githubusercontent.com/41947720/107882867-ba8f1b00-6f11-11eb-977e-d70bf217df0f.png) |
+|:--:|
+| *Bert Pre-Training Procedure* |
 
 Well, everything fine until now. But there is a catch. The above mentioned decoder architecture of Transformers doesn’t learn “bi-directional” contextualized embeddings making it less sophisticated in comparison to ELMo (Bi-Directional LSTM based architecture for generating dynamic contextualized embeddings).
 
@@ -38,7 +42,9 @@ The task here is to determine if the second sentence follows the first one. For 
 
 In addition to single-sentence classification task and single sentence tagging task, this additional mechanism of pre-training for next sentence prediction allows BERT to solve a array of problems. These include sentence pair classification tasks like Natural Language Inference tasks, and question answering tasks.
 
-<img width="690" alt="bert_types" src="https://user-images.githubusercontent.com/41947720/107882874-c7137380-6f11-11eb-992e-07464561673f.png">
+| <img width="690" alt="bert_types" src="https://user-images.githubusercontent.com/41947720/107882874-c7137380-6f11-11eb-992e-07464561673f.png"> |
+|:--:|
+| *BERT Paper showing different tasks* |
 
 ## USING BERT
 
@@ -52,7 +58,9 @@ Before diving into it, let us set up our environment for running BERT.
 We will use Pytorch and HuggingFace for running BERT.
 HuggingFace is a NLP startup which release open source NLP state-of-the-art models which can be used by anyone.
 
-![huggingface](https://user-images.githubusercontent.com/41947720/107882891-d692bc80-6f11-11eb-807d-ebc50d6d8bd4.png)
+| ![huggingface](https://user-images.githubusercontent.com/41947720/107882891-d692bc80-6f11-11eb-807d-ebc50d6d8bd4.png) |
+|:--:|
+| *Hugging Face* |
 
 These models run with the support of deep learning libraries like Pytorch or Tensorflow 2.0.
 
@@ -65,7 +73,9 @@ Here, I will highlight the main steps involved in running BERT the full code is 
 
 ### TOKENIZATION:
 
-![tokenization](https://user-images.githubusercontent.com/41947720/107882900-e3171500-6f11-11eb-8d87-909addd2da98.png)
+| ![tokenization](https://user-images.githubusercontent.com/41947720/107882900-e3171500-6f11-11eb-8d87-909addd2da98.png) |
+|:--:|
+| *Tokenization Procedure in BERT* |
 
 Tokenization is the first step of any natural language processing task. We break the sentences to words/ sub-word chunks and use this for generating features that can be used to train the model.
 
