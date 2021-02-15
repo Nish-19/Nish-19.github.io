@@ -43,6 +43,7 @@ permalink: /projects/
 *Guide*: Dr. Jimson Mathew      
 [Project Link](https://github.com/Nish-19/Two_Pass_Assembler_Emulator)
 
+* Project as a part of Computer Architecture Course (CS321-CS322)
 * Built an Assembler and Emulator in C Language for the given assembly Language
 * Assembler reads the assembly file and produces a list and an object file
 * Emulator links and executes the object file and provides the "trace" of execution and the memory dump
