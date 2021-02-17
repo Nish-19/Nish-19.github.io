@@ -82,7 +82,7 @@ Here, I will highlight the main steps involved in running BERT the full code is 
 |:--:|
 | *Tokenization Procedure in BERT* |
 
-Tokenization is the first step of any natural language processing task. We break the sentences to words/ sub-word chunks and use this for generating features that can be used to train the model.
+After data pre-processing, tokenization is the first step of all natural language processing tasks. We break the sentences to words/ sub-word chunks and use this for generating features that can be used to train the model.
 
 The Hugging Face Transformers comes with its own tokenizer which varies as per the BERT model you are using.
 
