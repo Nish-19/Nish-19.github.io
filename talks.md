@@ -3,15 +3,33 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
-## Njack Machine Learning Workshop
-Date: 21st and 22nd October 2020.
+## Njack Machine Learning Workshops
+
+* WORKSHOP-2:
+
+  Date: 10th and 11th March 2021.
+
+    * **Research Session: Introduction to Deep Learning**                
+    Details: Introduced the concept of neurons, neural layers, and collectively the working on neural networks. Introduced concepts of gradient descent and backpropogation. Demonstrated working of simple neural networks.
+    [Link](https://github.com/Njack-IITP/ML_Discussions/blob/main/2020-2021/ML_Research/Discussions.md)
+    Co-Speakers: Akshat Porwal, Sushant Sinha
+
+    * **Competitive ML Session: Ensemble Methods in Machine Learning**        
+    Details: Introduced concept of "combining" the predictions of various models for increasing the model performance. Covered topics from basic techniques like max voting to advanced techniques like bagging and boosting.           
+    [Link](https://github.com/Njack-IITP/ML_Discussions/blob/main/2020-2021/Competitive_ML/Discussions.md)             
+    Co-Speakers: Aditya Samantaroy, Gul Jain     
+
+* WORKSHOP-1:
+
+  Date: 21st and 22nd October 2020.
+
   * **Research Opportunities in Machine Learning**                
   Details: Talk on general research in Machine Learning and applying for research internships and the relevant opportunities available.      
-  [Link](https://github.com/Njack-IITP/ML_Discussions/blob/main/ML_Research/Discussions.md)
+  [Link](https://github.com/Njack-IITP/ML_Discussions/blob/main/2020-2021/ML_Research/Discussions.md)
 
   * **Competitive Machine Learning Session**        
   Details: Taught students about the general pipeline of approaching and solving a typical ML problem taken from Kaggle. Introduced students to various libraries like Numpy, Pandas and Matplotlib.           
-  [Link](https://github.com/Njack-IITP/ML_Discussions/blob/main/Competitive_ML/Discussions.md)             
+  [Link](https://github.com/Njack-IITP/ML_Discussions/blob/main/2020-2021/Competitive_ML/Discussions.md)             
   Co-Speakers: Akshat Porwal, Aditya Samantaroy, Gul Jain           
 
 ## DSC Research Discussion
