@@ -11,7 +11,7 @@ permalink: /talks/
 
     * **Research Session: Introduction to Deep Learning**                
     Details: Introduced the concept of neurons, neural layers, and collectively the working on neural networks. Introduced concepts of gradient descent and backpropogation. Demonstrated working of simple neural networks.
-    [Link](https://github.com/Njack-IITP/ML_Discussions/blob/main/2020-2021/ML_Research/Discussions.md)
+    [Link](https://github.com/Njack-IITP/ML_Discussions/blob/main/2020-2021/ML_Research/Discussions.md)          
     Co-Speakers: Akshat Porwal, Sushant Sinha
 
     * **Competitive ML Session: Ensemble Methods in Machine Learning**        
@@ -29,7 +29,7 @@ permalink: /talks/
 
   * **Competitive Machine Learning Session**        
   Details: Taught students about the general pipeline of approaching and solving a typical ML problem taken from Kaggle. Introduced students to various libraries like Numpy, Pandas and Matplotlib.           
-  [Link](https://github.com/Njack-IITP/ML_Discussions/blob/main/2020-2021/Competitive_ML/Discussions.md)             
+  [Link](https://github.com/Njack-IITP/ML_Discussions/blob/main/2020-2021/Competitive_ML/Discussions.md)                      
   Co-Speakers: Akshat Porwal, Aditya Samantaroy, Gul Jain           
 
 ## DSC Research Discussion
