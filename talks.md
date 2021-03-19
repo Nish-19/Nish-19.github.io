@@ -10,7 +10,7 @@ permalink: /talks/
   Date: 10th and 11th March 2021.
 
     * **Research Session: Introduction to Deep Learning**                
-    Details: Introduced the concept of neurons, neural layers, and collectively the working on neural networks. Introduced concepts of gradient descent and backpropogation. Demonstrated working of simple neural networks.
+    Details: Introduced the concept of neurons, neural layers, and collectively the working on neural networks. Introduced concepts of gradient descent and backpropogation. Demonstrated working of simple neural networks.         
     [Link](https://github.com/Njack-IITP/ML_Discussions/blob/main/2020-2021/ML_Research/Discussions.md)          
     Co-Speakers: Akshat Porwal, Sushant Sinha
 
@@ -30,7 +30,15 @@ permalink: /talks/
   * **Competitive Machine Learning Session**        
   Details: Taught students about the general pipeline of approaching and solving a typical ML problem taken from Kaggle. Introduced students to various libraries like Numpy, Pandas and Matplotlib.           
   [Link](https://github.com/Njack-IITP/ML_Discussions/blob/main/2020-2021/Competitive_ML/Discussions.md)                      
-  Co-Speakers: Akshat Porwal, Aditya Samantaroy, Gul Jain           
+  Co-Speakers: Akshat Porwal, Aditya Samantaroy, Gul Jain     
+
+## Explore ML Workshop DSC IIT-Patna
+  Date: 2nd and 3rd November 2019.              
+  Details: Two-day workshop powered by [Google AI](https://ai.google/).     
+    * Introduced students of IIT-Patna to the basics of Machine Learning and Neural Networks.        
+    * Initiated brainstorming activities through discussion of real-world applications of ML.   
+  [Link](https://github.com/dsciitpatna/ML-AI-Meetups/tree/master/ExploreML)      
+
 
 ## DSC Research Discussion
   * **Dynamic Memory Networks for NLP**  
@@ -38,13 +46,6 @@ permalink: /talks/
   Details: Spoke about the DMN architecture and its uses in general tasks in Natural Language Processing like Question Answering, Novelty Detection.      
   [Link](https://github.com/dsciitpatna/ML-AI-Meetups/blob/master/ML-Paper-Discussion/Topics_Discussed.md)     
 
-
-## Explore ML Workshop DSC IIT-Patna
-Date: 2nd and 3rd November 2019.              
-Details: Two-day workshop powered by Google AI .     
-  * Introduced students of IIT-Patna to the basics of Machine Learning and Neural Networks.        
-  * Initiated brainstorming activities through discussion of real-world applications of ML.   
-[Link](https://github.com/dsciitpatna/ML-AI-Meetups/tree/master/ExploreML)
 
 ## Machine Learning Sessions
 Date: 30th September 2019, 11th March 2020, 27th May 2020             
