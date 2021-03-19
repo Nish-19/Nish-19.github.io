@@ -34,10 +34,11 @@ permalink: /talks/
 
 ## Explore ML Workshop DSC IIT-Patna
 Date: 2nd and 3rd November 2019.              
-Details: Two-day workshop powered by [Google AI](https://ai.google/).            
+Details: Two-day workshop powered by [Google AI](https://ai.google/).
+           
     * Introduced students of IIT-Patna to the basics of Machine Learning and Neural Networks.        
     * Initiated brainstorming activities through discussion of real-world applications of ML.   
-  [Link](https://github.com/dsciitpatna/ML-AI-Meetups/tree/master/ExploreML)      
+    [Link](https://github.com/dsciitpatna/ML-AI-Meetups/tree/master/ExploreML)      
 
 
 ## DSC Research Discussion
