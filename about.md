@@ -12,13 +12,11 @@ I am a third year undergraduate Computer Science student at the [Indian Institut
 
 * Natural Language Processing
 
-* AI for Social Good
+* Multimodal Multimedia Analysis
 
-* Computer Vision
+* Explainability and Robustness
 
-* General Mathematics and Statistics
-
-Some of my specific interests include, Computational Linguistics, Unsupervised and Semi-Supervised Learning, Representation Learning and Social-Media Analysis. My research is based on the applications of deep learning in the domains of Misinformation Detection, Drug Abuse Detection (Social Media), Document Level Novelty Detection and Adversarial Robustness. I have been working in the AI-NLP-ML lab of IIT-Patna since July 2019, and the VAL IISc from May - September 2020.
+My research is based on the applications of deep learning in the domains of Misinformation Detection, Drug Abuse Detection (Social Media), Document Level Novelty Detection and Adversarial Robustness. I have been working in the AI-NLP-ML lab of IIT-Patna since July 2019, and the VAL IISc from May - September 2020.
 
 Apart from my research I am actively involved in different clubs and societies at IIT-Patna. I co-head the Machine Learning committee of the Computer Science club of IIT-Patna, and lead the Industrial Relations committee of the Entrepreneurship Cell. I also have experience in general software development, android development and competitive programming.
 
