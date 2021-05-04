@@ -3,6 +3,12 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+\* denotes equal contribution
+
+**A Multi-task Learning Approach for Fake News Detection: Novelty, Emotion, and Sentiment Lend a Helping Hand.**
+
+*Authors* - [Nischal A](https://www.linkedin.com/in/nischal-ashok/)*, Rina Kumari\*, Tirthankar Ghosal, Asif Ekbal          
+[Accepted] To be presented - International Joint Conference on Neural Networks (IJCNN'21) [CORE-A]
 
 **What the Fake? Probing Misinformation Standing on the shoulder of Novelty and Emotion**
 
@@ -12,6 +18,5 @@ Submitted - Information Processing and Management Journal (IPM) Elsevier (Impact
 
 **Exploring Adversarial Robustness in Deep Neural Networks**
 
-*Authors* - [Nischal A](https://www.linkedin.com/in/nischal-ashok/), Venkatesh Babu R    
-Affiliation - Dept. of Computational and Data Sciences, Indian Institute of Science (IISc) Bangalore              
+*Authors* - [Nischal A](https://www.linkedin.com/in/nischal-ashok/), Venkatesh Babu R                
 Journal Form Report Accepted - Summer Research Fellowship Portal of the Indian Academy of Sciences (established by Nobel prize winning Indian scientist Sir. C.V Raman)
