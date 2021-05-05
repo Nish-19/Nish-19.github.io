@@ -5,10 +5,15 @@ permalink: /publications/
 ---
 \* denotes equal contribution
 
-**A Multi-task Learning Approach for Fake News Detection: Novelty, Emotion, and Sentiment Lend a Helping Hand.**
+**A Multi-task Learning Approach for Fake News Detection: Novelty, Emotion, and Sentiment Lend a Helping Hand**
 
 *Authors* - [Nischal A](https://www.linkedin.com/in/nischal-ashok/)*, Rina Kumari\*, Tirthankar Ghosal, Asif Ekbal          
 [Accepted] To be presented - International Joint Conference on Neural Networks (IJCNN'21) [CORE-A]
+
+**Misinformation detection using multitask learning with mutual learning for novelty detection and emotion recognition**
+
+*Authors* - [Nischal A](https://www.linkedin.com/in/nischal-ashok/)*, Rina Kumari\*, Tirthankar Ghosal, Asif Ekbal          
+[Accepted] Information Processing and Management Journal (IPM) (Impact Factor - 4.787)
 
 **What the Fake? Probing Misinformation Standing on the shoulder of Novelty and Emotion**
 
