@@ -12,8 +12,8 @@ permalink: /publications/
 
 **Misinformation detection using multitask learning with mutual learning for novelty detection and emotion recognition**
 
-*Authors* - [Nischal A](https://www.linkedin.com/in/nischal-ashok/)*, Rina Kumari\*, Tirthankar Ghosal, Asif Ekbal          
-[Accepted] Information Processing and Management Journal (IPM) (Impact Factor - 4.787)
+*Authors* - [Nischal A](https://www.linkedin.com/in/nischal-ashok/)*, Rina Kumari\*, Tirthankar Ghosal, Asif Ekbal       
+Information Processing and Management Journal (IPM) (Impact Factor - 4.787) [Paper](https://www.sciencedirect.com/science/article/pii/S0306457321001254) [Code](https://github.com/Nish-19/Misinformation-Multitask-Attention-NE)
 
 **What the Fake? Probing Misinformation Standing on the shoulder of Novelty and Emotion**
 
