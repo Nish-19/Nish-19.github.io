@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF Link](https://nish-19.github.io/files/1801CS33_Nischal.pdf)
+
 Education
 ======
-* B.Tech. in Computer Science and Engineering, Indian Institute of Technology (IIT) Patna, 2018-2022 (Institution Rank: 3/265)
+* B.Tech. in Computer Science and Engineering, Indian Institute of Technology (IIT) Patna, 2018-2022 (CGPA-9.38/10) (Institution Rank: 3/265)
 * M.S. - Ph.D in Computer Science, University of Massachusetts (UMass) Amherst, Fall-2022 (start) 
 
 Work experience
