@@ -9,7 +9,7 @@ author_profile: true
 
 ## Journals
 
-2. *Nischal Ashok\***, Rina Kumari*, Tirthankar Ghosal, Asif Ekbal, "What the Fake? Probing Misinformation Detection Standing on the Shoulder of Novelty and Emotion", in the Journal of Information Processing and Management (IPM), January 2022 (IF:6.2) [Link](https://www.sciencedirect.com/science/article/pii/S0306457321002223)
+2. **Nischal Ashok\***, Rina Kumari*, Tirthankar Ghosal, Asif Ekbal, "What the Fake? Probing Misinformation Detection Standing on the Shoulder of Novelty and Emotion", in the Journal of Information Processing and Management (IPM), January 2022 (IF:6.2) [Link](https://www.sciencedirect.com/science/article/pii/S0306457321002223)
 
 1. **Nischal Ashok\***, Rina Kumari*, Tirthankar Ghosal, Asif Ekbal, "Misinformation Detection using Multi-Task Learning with Mutual Learning for Novelty and Emotion", in the Journal of Information Processing and Management (IPM), May 2021 (IF:6.2) [Link](https://www.sciencedirect.com/science/article/abs/pii/S0306457321001254)
 
