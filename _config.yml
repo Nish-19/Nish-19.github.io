@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nischal Ashok"
+title                    : "Nischal Ashok Kumar"
 title_separator          : "-"
-name                     : &name "Nischal Ashok"
+name                     : &name "Nischal Ashok Kumar"
 description              : &description "Personal Blog"
 url                      : https://Nish-19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nischal Ashok"
+  name             : "Nischal Ashok Kumar"
   avatar           : "profile.png"
   bio              : "Incoming CS PhD Student at UMass Amherst"
   location         : "Bangalore, India"
