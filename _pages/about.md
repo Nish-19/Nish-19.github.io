@@ -16,6 +16,8 @@ I graduated with a Bachelor's degree in Computer Science and Engineering (CSE) f
 
 News
 ======
+* <u>[Sept 2022]</u> Co-authored paper "M3: An Emotion and Novelty-aware Approach for Multilingual Multimodal Misinformation Detection" has been accepted in the findings of AACL-IJCNLP 2022.
+
 * <u>[Sept 2022]</u> Started my MS-PhD at UMass Amherst. Working as a research assistant in the ML for Education Lab
 
 * <u>[May 2022]</u> Started my internship at SciSpace. Will be working on Video Generation from Research Articles
