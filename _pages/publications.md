@@ -19,5 +19,4 @@ author_profile: true
 
 * **Nischal Ashok\***, Rina Kumari*, Tirthankar Ghosal, Asif Ekbal, "A Multitask learning approach for fake news detection: Novelty, Emotion and Sentiment Lend a Helping Hand" in the International Joint Conference on Neural Networks (IJCNN-2021), July 2021 [Link](https://ieeexplore.ieee.org/abstract/document/9534218/)
 
-* Vipin Gupta, Rina Kumari, **Nischal Ashok**, Tirthankar Ghosal and Asif Ekbal, "M^3: An Emotion and Novelty-aware Approach for Multilingual Multimodal Misinformation Detection", in the Findings of the Asia-Pacific Chapter for the Association of Computational Linguistics and International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022) *[To Appear]*
-
+* Vipin Gupta, Rina Kumari, **Nischal Ashok**, Tirthankar Ghosal and Asif Ekbal, "MMM: An Emotion and Novelty-aware Approach for Multilingual Multimodal Misinformation Detection", Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022 [Link](https://aclanthology.org/2022.findings-aacl.43/)
