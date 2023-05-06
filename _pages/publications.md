@@ -9,7 +9,7 @@ author_profile: true
 
 ## Conferences
 
-**N. Ashok Kumar**, W. Feng, J. Lee, H. McNichols, A. Ghosh, and A. S. Lan, "A Conceptual Model for End-to-End Causal Discovery in Knowledge Tracing," International Conference on Educational Data Mining (EDM), July 2023, to appear
+* **N. Ashok Kumar**, W. Feng, J. Lee, H. McNichols, A. Ghosh, and A. S. Lan, "A Conceptual Model for End-to-End Causal Discovery in Knowledge Tracing," International Conference on Educational Data Mining (EDM), July 2023, to appear
 
 * V.Gupta, R.Kumari, **N.Ashok**, T.Ghosal and A.Ekbal, "MMM: An Emotion and Novelty-aware Approach for Multilingual Multimodal Misinformation Detection", Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022 [Link](https://aclanthology.org/2022.findings-aacl.43/)
 
