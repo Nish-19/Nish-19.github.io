@@ -16,9 +16,12 @@ I graduated with a Bachelor's degree in Computer Science and Engineering (CSE) f
 
 News
 ======
+* <u>[May 2023]</u> Awarded the Victor Lesser Graduate Scholarship in Artificial Intelligence.
+
+* <u>[April 2023]</u> Our paper "A Conceptual Model for End-to-End Causal Discovery in Knowledge Tracing" has been accepted in the International Conference on Educational Data Mining (EDM).
+
 * <u>[Jan 2023]</u> Awarded the CICS common good fellowship for Spring 2023 for working on problems on AI for Education. 
 
-* <u>[Sept 2022]</u> Co-authored paper "M3: An Emotion and Novelty-aware Approach for Multilingual Multimodal Misinformation Detection" has been accepted in the findings of AACL-IJCNLP 2022.
+* <u>[Sept 2022]</u> Our paper "M3: An Emotion and Novelty-aware Approach for Multilingual Multimodal Misinformation Detection" has been accepted in the findings of AACL-IJCNLP 2022.
 
 * <u>[Sept 2022]</u> Started my MS-PhD at UMass Amherst. Working as a research assistant in the ML for Education Lab
-
