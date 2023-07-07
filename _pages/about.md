@@ -16,6 +16,8 @@ I graduated with a Bachelor's degree in Computer Science and Engineering (CSE) f
 
 News
 ======
+* <u>[May 2023]</u> Started my internship at AWS AI Labs, NYC in the DBS Quicksight team.  
+
 * <u>[May 2023]</u> Our paper "Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank" is accepted for oral presentation (2/110 papers) at the BEA Workshop co-located with ACL. 
 
 * <u>[May 2023]</u> Awarded the Victor Lesser Graduate Scholarship in Artificial Intelligence.
