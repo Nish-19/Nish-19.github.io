@@ -17,10 +17,15 @@ I graduated with a Bachelor's degree in Computer Science and Engineering (CSE) f
 News
 ======
 
-<div style="height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
-<table>
-<col width="100px">
-<col width="650px">
-<tr><td><b>May 2023:</b></td><td>Started my internship at <a href="https://www.amazon.science/">AWS AI Labs</a></td>
-<tr><td><b>May 2023:</b></td><td>Our <a href="https://aclanthology.org/2023.bea-1.22/">paper</a> on reading comprehension recieved outstanding paper mention and oral acceptance at <a href="https://sig-edu.org/bea/2023">the BEA Workshop</a> - ACL 2023</td></tr>
+<div style="height: 300px; overflow: auto; padding: 10px;">
+    <style>
+        td { font-size: 16px; border: none; }
+    </style>
+    <table>
+        <col width="100px">
+        <col width="650px">
+        <tr><td><b>May 2023:</b></td><td>Started my internship at <a href="https://www.amazon.science/">AWS AI Labs</a></td></tr>
+        <tr><td><b>May 2023:</b></td><td>Our <a href="https://aclanthology.org/2023.bea-1.22/">paper</a> on reading comprehension received outstanding paper mention and oral acceptance at <a href="https://sig-edu.org/bea/2023">the BEA Workshop</a> - ACL 2023</td></tr>
+    </table>
+</div>
 
