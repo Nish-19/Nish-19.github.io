@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Computer Science MS-PhD Student at the University of Massachusetts (UMass) Amherst. My areas of interest include Machine Learning, Natural Language Processing and AI for Social Good. I work in the ML for Education Lab under [Prof. Andrew Lan](https://www.cics.umass.edu/people/lan-andrew).
+Hello! I am a Computer Science MS-PhD Student at the University of Massachusetts (UMass) Amherst. My areas of interest include Machine Learning, Natural Language Processing and AI for Social Good. I work in the ML for Education Lab under [Prof. Andrew Lan](https://www.cics.umass.edu/people/lan-andrew). As a graduate student I have interned at [AWS AI Labs](https://www.amazon.science/) in the Quicksight Q Team. 
 
 
 I graduated with a Bachelor's degree in Computer Science and Engineering (CSE) from the Indian Institute of Technology (IIT) Patna where I was fortunate to work under [Prof. Asif Ekbal](https://www.asifekbal.com/) in the [AI-NLP-ML Lab](https://www.iitp.ac.in/~ai-nlp-ml/) from my sophomore year. During my undergrad days, I also had wonderful oppurtunities interning/collaborating with several industrial ([SciSpace](https://typeset.io/), [IBM Research](https://research.ibm.com/), [Wipro Research](https://www.wipro.com/innovation/research/), [Tildehat](https://in.linkedin.com/company/tildehat?original_referer=https%3A%2F%2Fwww.google.com%2F)) and academic labs ([IR group at UIC](https://www.cs.uic.edu/~cornelia/index.html), [DKE group at BUW](https://gipplab.org/), [VAL group at IISc Bangalore](https://val.cds.iisc.ac.in/)).
@@ -24,8 +24,12 @@ News
     <table>
         <col width="100px">
         <col width="650px">
-        <tr><td><b>May 2023:</b></td><td>Started my internship at <a href="https://www.amazon.science/">AWS AI Labs</a></td></tr>
+        <tr><td><b>May 2023:</b></td><td>Started my internship at <a href="https://www.amazon.science/">AWS AI Labs</a> in NYC.</td></tr>
         <tr><td><b>May 2023:</b></td><td>Our <a href="https://aclanthology.org/2023.bea-1.22/">paper</a> on reading comprehension received outstanding paper mention and oral acceptance at <a href="https://sig-edu.org/bea/2023">the BEA Workshop</a> - ACL 2023</td></tr>
+        <tr><td><b>May 2023:</b></td><td>Awarded the CICS <a href="https://www.cics.umass.edu/support">Victor Lesser Graduate Scholarship</a> in Artificial Intelligence</td></tr>
+        <tr><td><b>April 2023:</b></td><td>Our <a href="https://arxiv.org/abs/2305.16165">paper</a> on Causal Discovery in Knowledge Tracing has been accepted at <a href="https://educationaldatamining.org/edm2023/">EDM 2023</a></td></tr>
+        <tr><td><b>Jan 2023:</b></td><td>Awarded the CICS <a href="https://www.umass.edu/gateway/article/computing-common-good-0">Common Good Fellowship</a> for Spring 2023</td></tr>
+        <tr><td><b>Sept 2022:</b></td><td>Our <a href="https://aclanthology.org/2022.findings-aacl.43/">paper</a> on emotion and novelty aware multi-lingual multimodal misinformation detection has been accepted at <a href="http://www.ijcnlp-aacl2023.org/">AACL-IJCNLP 2023</a></td></tr>
+        <tr><td><b>Sept 2022:</b></td><td>Started my MS-PhD in Computer Science at <a href="https://www.cics.umass.edu/">UMass Amherst.</a> I will be working in the ML for Education lab with <a href="https://www.cics.umass.edu/people/lan-andrew">Prof. Andrew Lan</a></td></tr>
     </table>
 </div>
-
