@@ -16,6 +16,13 @@ I graduated with a Bachelor's degree in Computer Science and Engineering (CSE) f
 
 News
 ======
+
+<div style="height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
+<table>
+<col width="100px">
+<col width="650px">
+<tr><td><b>Oct 2023:</b></td><td>Started my internship at <a href="https://www.amazon.science/">AWS AI Labs</a></td></tr>
+
 * <u>[May 2023]</u> Started my internship at AWS AI Labs, NYC in the DBS Quicksight team.  
 
 * <u>[May 2023]</u> Our paper "Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank" is accepted for oral presentation (2/110 papers) at the BEA Workshop co-located with ACL. 
