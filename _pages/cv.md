@@ -18,6 +18,9 @@ Education
 
 Work experience
 ======
+* Summer 2023: Applied Scientist II Intern, Amazon Web Services, New York City, USA
+  * Worked with the Quicksight Q team on text-to-sql problems. 
+
 * Summer 2022: NLP/ML Intern, SciSpace, Bangalore, India
   * Working on Video Generation from research articles
 
