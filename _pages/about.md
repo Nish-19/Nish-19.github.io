@@ -30,6 +30,6 @@ News
         <tr><td><b>April 2023:</b></td><td>Our <a href="https://arxiv.org/abs/2305.16165">paper</a> on Causal Discovery in Knowledge Tracing has been accepted at <a href="https://educationaldatamining.org/edm2023/">EDM 2023</a></td></tr>
         <tr><td><b>Jan 2023:</b></td><td>Awarded the CICS <a href="https://www.umass.edu/gateway/article/computing-common-good-0">Common Good Fellowship</a> for Spring 2023</td></tr>
         <tr><td><b>Sept 2022:</b></td><td>Our <a href="https://aclanthology.org/2022.findings-aacl.43/">paper</a> on emotion and novelty aware multi-lingual multimodal misinformation detection has been accepted at <a href="http://www.ijcnlp-aacl2023.org/">AACL-IJCNLP 2023</a></td></tr>
-        <tr><td><b>Sept 2022:</b></td><td>Started my MS-PhD in Computer Science at <a href="https://www.cics.umass.edu/">UMass Amherst.</a> I will be working in the ML for Education lab with <a href="https://www.cics.umass.edu/people/lan-andrew">Prof. Andrew Lan</a></td></tr>
+        <tr><td><b>Sept 2022:</b></td><td>Started my MS-PhD in Computer Science at <a href="https://www.cics.umass.edu/">UMass Amherst</a> and awarded the CICS doctoral scolarship for incoming students. I will be working in the ML for Education lab with <a href="https://www.cics.umass.edu/people/lan-andrew">Prof. Andrew Lan</a></td></tr>
     </table>
 </div>
