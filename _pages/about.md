@@ -21,18 +21,6 @@ News
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Oct 2023:</b></td><td>Started my internship at <a href="https://www.amazon.science/">AWS AI Labs</a></td></tr>
+<tr><td><b>May 2023:</b></td><td>Started my internship at <a href="https://www.amazon.science/">AWS AI Labs</a></td>
+<tr><td><b>May 2023:</b></td><td>Our <a href="https://aclanthology.org/2023.bea-1.22/">paper</a> on reading comprehension recieved outstanding paper mention and oral acceptance at <a href="https://sig-edu.org/bea/2023">the BEA Workshop</a> - ACL 2023</td></tr>
 
-* <u>[May 2023]</u> Started my internship at AWS AI Labs, NYC in the DBS Quicksight team.  
-
-* <u>[May 2023]</u> Our paper "Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank" is accepted for oral presentation (2/110 papers) at the BEA Workshop co-located with ACL. 
-
-* <u>[May 2023]</u> Awarded the Victor Lesser Graduate Scholarship in Artificial Intelligence.
-
-* <u>[April 2023]</u> Our paper "A Conceptual Model for End-to-End Causal Discovery in Knowledge Tracing" has been accepted in the International Conference on Educational Data Mining (EDM).
-
-* <u>[Jan 2023]</u> Awarded the CICS common good fellowship for Spring 2023 for working on problems on AI for Education. 
-
-* <u>[Sept 2022]</u> Our paper "M3: An Emotion and Novelty-aware Approach for Multilingual Multimodal Misinformation Detection" has been accepted in the findings of AACL-IJCNLP 2022.
-
-* <u>[Sept 2022]</u> Started my MS-PhD at UMass Amherst. Working as a research assistant in the ML for Education Lab
