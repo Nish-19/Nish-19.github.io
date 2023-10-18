@@ -9,7 +9,7 @@ author_profile: true
 
 ## Conferences
 
-* **N. Ashok Kumar**, N. Fernandez, Z. Wang, A. Lan, "Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank", Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023) co-located with ACL 2023 [LINK](https://arxiv.org/abs/2306.08847) *(Outstanding Paper Mention - 2/58)*
+* **N. Ashok Kumar**, N. Fernandez, Z. Wang, A. Lan, "Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank", Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023) co-located with ACL 2023 [LINK](https://arxiv.org/abs/2306.08847) (🏆 <span style="color: blue;">Outstanding Paper</span> 🏆)
 
 * **N. Ashok Kumar**, W. Feng, J. Lee, H. McNichols, A. Ghosh, and A. S. Lan, "A Conceptual Model for End-to-End Causal Discovery in Knowledge Tracing," International Conference on Educational Data Mining (EDM) [LINK](https://arxiv.org/abs/2305.16165)
 
