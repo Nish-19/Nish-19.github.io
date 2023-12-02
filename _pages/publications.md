@@ -9,9 +9,9 @@ author_profile: true
 
 ## Conferences
 
-* **N. Ashok Kumar**, N. Fernandez, Z. Wang, A. Lan, "Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank", Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023) co-located with ACL 2023 [LINK](https://arxiv.org/abs/2306.08847) (🏆 <span style="color: blue;">Outstanding Paper</span> 🏆)
+* **N. Ashok Kumar**, N. Fernandez, Z. Wang, A. Lan, "Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank", Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023) co-located with ACL 2023 [LINK](https://aclanthology.org/2023.bea-1.22/) (🏆 <span style="color: blue;">Outstanding Paper</span> 🏆)
 
-* **N. Ashok Kumar**, W. Feng, J. Lee, H. McNichols, A. Ghosh, and A. S. Lan, "A Conceptual Model for End-to-End Causal Discovery in Knowledge Tracing," International Conference on Educational Data Mining (EDM) [LINK](https://arxiv.org/abs/2305.16165)
+* **N. Ashok Kumar**, W. Feng, J. Lee, H. McNichols, A. Ghosh, and A. S. Lan, "A Conceptual Model for End-to-End Causal Discovery in Knowledge Tracing," International Conference on Educational Data Mining (EDM) [LINK](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-posters.42/index.html)
 
 * V.Gupta, R.Kumari, **N.Ashok**, T.Ghosal and A.Ekbal, "MMM: An Emotion and Novelty-aware Approach for Multilingual Multimodal Misinformation Detection", Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022 [Link](https://aclanthology.org/2022.findings-aacl.43/)
 
@@ -22,10 +22,21 @@ author_profile: true
 
 ## Journals
 
-* **N.Ashok**, R.Kumari, P.K. Agarwal, T.Ghosal, A.Ekbal, "Identifying Multimodal Misinformation Leveraging Novelty Detection and Emotion Recognition", in the Journal of Intelligent Information Systems, [Link](https://link.springer.com/article/10.1007/s10844-023-00789-x)
+* **N.Ashok\***, R.Kumari*, T.Ghosal, A.Ekbal, "Misinformation Detection using Multi-Task Learning with Mutual Learning for Novelty and Emotion", in the Journal of Information Processing and Management (IPM), May 2021 (IF:6.2) [Link](https://www.sciencedirect.com/science/article/abs/pii/S0306457321001254)
 
 * **N.Ashok\***, R.Kumari*, T.Ghosal, A.Ekbal, "What the Fake? Probing Misinformation Detection Standing on the Shoulder of Novelty and Emotion", in the Journal of Information Processing and Management (IPM), January 2022 (IF:6.2) [Link](https://www.sciencedirect.com/science/article/pii/S0306457321002223)
 
-* **N.Ashok\***, R.Kumari*, T.Ghosal, A.Ekbal, "Misinformation Detection using Multi-Task Learning with Mutual Learning for Novelty and Emotion", in the Journal of Information Processing and Management (IPM), May 2021 (IF:6.2) [Link](https://www.sciencedirect.com/science/article/abs/pii/S0306457321001254)
+* **N.Ashok**, R.Kumari, P.K. Agarwal, T.Ghosal, A.Ekbal, "Identifying Multimodal Misinformation Leveraging Novelty Detection and Emotion Recognition", in the Journal of Intelligent Information Systems [Link](https://link.springer.com/article/10.1007/s10844-023-00789-x)
+
+* R.Kumari, V.Gupta, **N.Ashok**, T.Ghosal, A.Ekbal, "Emotion aided multi-task framework for video embedded misinformation detection", in Multimedia Tools and Applications [Link](https://link.springer.com/article/10.1007/s11042-023-17208-6)
+
+## Pre-Prints 
+
+* **N.Ashok**, N.Gupta, S.Guttula, H.Patel, "Multi-Intent Detection in User Provided Annotations for Programming by Examples Systems", arxiv [Link](https://arxiv.org/abs/2307.03966)
+
+
+
+
+
 
 

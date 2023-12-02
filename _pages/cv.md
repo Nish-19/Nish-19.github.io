@@ -44,6 +44,8 @@ Work experience
 
 Service and leadership
 ======
+* [Sept 2023 - Nov 2023] Member - PhD Application Support Committee (PASP) UMass CICS.
+* [Sept 2022 - May 2023] Member - New Student Graduate Committee UMass CICS.
 * [May 2020 - Aug 2021] Lead - Machine Learning, NJACK CSE Club of IIT-Patna
 * [Aug 2019 - Jul 2021] Head - Industrial Relations, Entrepreneurship Cell of IIT-Patna
 * [Aug 2019 - Aug 2020] Departmental Lead, Developer Student Clubs - IIT Patna
