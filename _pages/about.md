@@ -24,7 +24,7 @@ News
     <table>
         <col width="100px">
         <col width="650px">
-        <tr><td><b>Dec 2023:</b></td><td>Our <a href="https://arxiv.org/abs/2402.07081">paper</a> on student-code guided test case generation has been accepted at the AAAI-2024  <a href="https://ai4ed.cc/workshops/aaai2024/">AI4ED Workshop</a>.</td></tr>
+        <tr><td><b>Dec 2023:</b></td><td>Our paper on student-code guided test case generation has been accepted at the AAAI-2024  <a href="https://ai4ed.cc/workshops/aaai2024/">AI4ED Workshop</a>.</td></tr>
         <tr><td><b>May 2023:</b></td><td>Started my internship at <a href="https://www.amazon.science/">AWS AI Labs</a> in NYC.</td></tr>
         <tr><td><b>May 2023:</b></td><td>Our <a href="https://aclanthology.org/2023.bea-1.22/">paper</a> on reading comprehension received outstanding paper mention and oral acceptance at <a href="https://sig-edu.org/bea/2023">the BEA Workshop</a> - ACL 2023</td></tr>
         <tr><td><b>May 2023:</b></td><td>Awarded the CICS <a href="https://www.cics.umass.edu/support">Victor Lesser Graduate Scholarship</a> in Artificial Intelligence</td></tr>
