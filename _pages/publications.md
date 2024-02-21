@@ -9,7 +9,7 @@ author_profile: true
 
 ## Conferences/ Workshops
 
-* **N. Ashok Kumar**, A. Lan, "Using Large Language Models for Student-Code Guided Test Case Generation in Computer Science Education", AI4ED Workshop held with AAAI-2024 [To Appear] [LINK](https://arxiv.org/abs/2402.07081) (🏆 <span style="color: blue;">Best Runner-Up Paper</span> 🏆)
+* **N. Ashok Kumar**, A. Lan, "Using Large Language Models for Student-Code Guided Test Case Generation in Computer Science Education", AI4ED Workshop held with AAAI-2024 [LINK](https://arxiv.org/abs/2402.07081) (🏆 <span style="color: blue;">Best Runner-Up Paper</span> 🏆)
 
 
 * **N. Ashok Kumar**, N. Fernandez, Z. Wang, A. Lan, "Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank", Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023) co-located with ACL 2023 [LINK](https://aclanthology.org/2023.bea-1.22/) (🏆 <span style="color: blue;">Outstanding Paper</span> 🏆)
