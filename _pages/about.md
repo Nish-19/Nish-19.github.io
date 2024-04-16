@@ -23,6 +23,7 @@ News
     <table>
         <col width="100px">
         <col width="650px">
+        <tr><td><b>Apr 2024:</b></td><td>Our <a href="https://arxiv.org/abs/2403.00199">paper</a> on Socratic Question Generation has been accepted at  <a href="https://sig-edu.org/bea/2024">BEA Workshop</a> co-located with NAACL 2024</td></tr>
         <tr><td><b>Feb 2024:</b></td><td>Our <a href="https://arxiv.org/abs/2402.07081">paper</a> recieved best runner-up paper award at the <a href="https://ai4ed.cc/">AI4ED Workshop AAAI</a>. Presenting the work in <a href="https://aaai.org/aaai-conference/">Vancouver</a>!</td></tr>
         <tr><td><b>Dec 2023:</b></td><td>Our <a href="https://arxiv.org/abs/2402.07081">paper</a> on student-code guided test case generation has been accepted at the AAAI-2024  <a href="https://ai4ed.cc/">AI4ED Workshop</a>.</td></tr>
         <tr><td><b>May 2023:</b></td><td>Started my internship at <a href="https://www.amazon.science/">AWS AI Labs</a> in NYC.</td></tr>
