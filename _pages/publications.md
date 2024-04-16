@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permaLINK: /publications/
+permalink: /publications/
 author_profile: true
 ---
 
@@ -21,7 +21,7 @@ author_profile: true
 
 * V.Gupta, R.Kumari, **N.Ashok**, T.Ghosal and A.Ekbal, "MMM: An Emotion and Novelty-aware Approach for Multilingual Multimodal Misinformation Detection", Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022 [LINK](https://aclanthology.org/2022.findings-aacl.43/)
 
-* **N.Ashok\***, J.P.Wahle*, T.Ruas, N.Meuschke, T.Ghosal, B.Gipp, "Testing the Generalization of Neural Language Models for COVID-19 Misinformation Detection", in the International Conference on Information (iConference-2022), November 2021 [LINK](https://LINK.springer.com/chapter/10.1007/978-3-030-96957-8_33)
+* **N.Ashok\***, J.P.Wahle*, T.Ruas, N.Meuschke, T.Ghosal, B.Gipp, "Testing the Generalization of Neural Language Models for COVID-19 Misinformation Detection", in the International Conference on Information (iConference-2022), November 2021 [LINK](https://link.springer.com/chapter/10.1007/978-3-030-96957-8_33)
 
 * **N.Ashok\***, R.Kumari*, T.Ghosal, A.Ekbal, "A Multitask learning approach for fake news detection: Novelty, Emotion and Sentiment Lend a Helping Hand" in the International Joint Conference on Neural Networks (IJCNN-2021), July 2021 [LINK](https://ieeexplore.ieee.org/abstract/document/9534218/)
 
