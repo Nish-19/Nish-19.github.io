@@ -9,6 +9,9 @@ author_profile: true
 
 ## Conferences/ Workshops
 
+* **N. Ashok Kumar**, A. Lan, "Improving Socratic Question Generation using Data Augmentation and Preference Optimization", Proceedings of the 19th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2024) co-located with NAACL 2024 [LINK](https://arxiv.org/abs/2403.00199) 
+
+
 * **N. Ashok Kumar**, A. Lan, "Using Large Language Models for Student-Code Guided Test Case Generation in Computer Science Education", AI4ED Workshop held with AAAI-2024 [LINK](https://arxiv.org/abs/2402.07081) (🏆 <span style="color: blue;">Best Runner-Up Paper</span> 🏆)
 
 
