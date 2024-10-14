@@ -18,11 +18,14 @@ Education
 
 Work experience
 ======
+* Summer 2024: Applied Scientist II Intern, Amazon Web Services, New York City, USA
+  * Worked with the Bedrock team on Retrieval Augmented Generation (RAG). 
+
 * Summer 2023: Applied Scientist II Intern, Amazon Web Services, New York City, USA
-  * Worked with the Quicksight Q team on text-to-sql problems. 
+  * Worked with the Quicksight Q team on text-to-SQL problems. 
 
 * Summer 2022: NLP/ML Intern, SciSpace, Bangalore, India
-  * Working on Video Generation from research articles
+  * Worked on Video Generation from research articles
 
 * Fall 2019 - Spring 2022: Undergraduate Researcher, AI-NLP-ML Lab, IIT-Patna, India
   * Project (B.Tech Thesis): Explainable Multi-Modal Misinformation Detection 
@@ -41,6 +44,16 @@ Work experience
 
 * Winter 2019: Data Science Intern, TildeHat
   * Project: Unsupervised Data Retrieval from Resumes
+
+
+Mentoring
+======
+* Disha Chiplonker (Spring 2024)
+* Dishank Jhaveri (Spring 2024)
+* Rohan Lekhwani (Spring 2024)
+* Saksham Bansal (Winter 2023)
+* Hayun Jung (Winter 2023)
+* Piyush Maheshwari (Winter 2023)
 
 Service and leadership
 ======
