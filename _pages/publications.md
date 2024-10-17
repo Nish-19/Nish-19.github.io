@@ -38,7 +38,9 @@ author_profile: true
 
 ## Pre-Prints 
 
-* **N.Ashok**, N.Gupta, S.Guttula, H.Patel, "Multi-Intent Detection in User Provided Annotations for Programming by Examples Systems", arxiv [LINK](https://arxiv.org/abs/2307.03966)
+* M. Dong*, **N. Ashok Kumar\***, Y. Hu, A. Chauhan, C. W. Hang, S. Chang, L. Pan, W. Lan, H. Zhu, J. Jiang, P. Ng, Z. Wang, "PRACTIQ: A Practical Conversational text-to-SQL dataset with Ambiguous and Unanswerable Queries", arxiv [LINK](https://arxiv.org/pdf/2410.11076)
+
+* **N.Ashok Kumar**, N.Gupta, S.Guttula, H.Patel, "Multi-Intent Detection in User Provided Annotations for Programming by Examples Systems", arxiv [LINK](https://arxiv.org/abs/2307.03966)
 
 
 
