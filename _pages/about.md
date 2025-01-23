@@ -23,6 +23,7 @@ News
     <table>
         <col width="100px">
         <col width="650px">
+        <tr><td><b>Jan 2025:</b></td><td><a href="https://arxiv.org/pdf/2410.11076">PRACTIQ</a> has been accepted at <a href="https://2025.naacl.org/">NAACL 2025</a> main conference!</td></tr>
         <tr><td><b>Oct 2024:</b></td><td>Excited to release our new pre-print <a href="https://arxiv.org/pdf/2410.11076">PRACTIQ</a> a novel conversational text-to-SQL dataset with ambiguous and unanswerable queries.</td></tr>
         <tr><td><b>June 2024:</b></td><td>Started my internship at the  <a href="https://www.amazon.science/">AWS AI Labs</a> working in the Bedrock team on Retrieval Augmented Generation (RAG)</td></tr>
         <tr><td><b>Apr 2024:</b></td><td>Our <a href="https://arxiv.org/abs/2403.00199">paper</a> on Socratic Question Generation has been accepted at  <a href="https://sig-edu.org/bea/2024">BEA Workshop</a> co-located with NAACL 2024</td></tr>
