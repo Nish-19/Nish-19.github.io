@@ -9,6 +9,9 @@ author_profile: true
 
 ## Conferences/ Workshops
 
+* **N. Ashok Kumar\***, M. Dong*, Y. Hu, A. Chauhan, C. W. Hang, S. Chang, L. Pan, W. Lan, H. Zhu, J. Jiang, P. Ng, Z. Wang, "PRACTIQ: A Practical Conversational text-to-SQL dataset with Ambiguous and Unanswerable Queries", 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025) [To Appear] [LINK](https://arxiv.org/pdf/2410.11076)
+
+
 * **N. Ashok Kumar**, A. Lan, "Improving Socratic Question Generation using Data Augmentation and Preference Optimization", Proceedings of the 19th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2024) co-located with NAACL 2024 [LINK](https://aclanthology.org/2024.bea-1.10) 
 
 
@@ -37,8 +40,6 @@ author_profile: true
 * R.Kumari, V.Gupta, **N.Ashok**, T.Ghosal, A.Ekbal, "Emotion aided multi-task framework for video embedded misinformation detection", in Multimedia Tools and Applications [LINK](https://link.springer.com/article/10.1007/s11042-023-17208-6)
 
 ## Pre-Prints 
-
-* M. Dong*, **N. Ashok Kumar\***, Y. Hu, A. Chauhan, C. W. Hang, S. Chang, L. Pan, W. Lan, H. Zhu, J. Jiang, P. Ng, Z. Wang, "PRACTIQ: A Practical Conversational text-to-SQL dataset with Ambiguous and Unanswerable Queries", arxiv [LINK](https://arxiv.org/pdf/2410.11076)
 
 * **N.Ashok Kumar**, N.Gupta, S.Guttula, H.Patel, "Multi-Intent Detection in User Provided Annotations for Programming by Examples Systems", arxiv [LINK](https://arxiv.org/abs/2307.03966)
 
