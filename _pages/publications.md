@@ -41,11 +41,6 @@ author_profile: true
 
 ## Pre-Prints 
 
+* **N.Ashok Kumar**, C.M. Pham, M. Iyyer, A. Lan, "Whose story is it? Personalizing story generation by inferring author styles", arxiv [LINK](https://arxiv.org/abs/2502.13028)
+
 * **N.Ashok Kumar**, N.Gupta, S.Guttula, H.Patel, "Multi-Intent Detection in User Provided Annotations for Programming by Examples Systems", arxiv [LINK](https://arxiv.org/abs/2307.03966)
-
-
-
-
-
-
-
