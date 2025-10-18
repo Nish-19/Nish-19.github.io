@@ -11,7 +11,7 @@ author_profile: true
 
 * **N.Ashok Kumar**, C.M. Pham, M. Iyyer, A. Lan, "Whose story is it? Personalizing story generation by inferring author styles", arxiv [LINK](https://arxiv.org/abs/2502.13028)
 
-* **N.Ashok Kumar\***, M.C. Peczuh, R. Baker, et al., "Toward LLM-Supported Automated Assessment of Critical Thinking Subskills", arxiv [LINK](https://arxiv.org/abs/2510.12915)
+* **N.Ashok Kumar\***, M.C. Peczuh*, R. Baker, et al., "Toward LLM-Supported Automated Assessment of Critical Thinking Subskills", arxiv [LINK](https://arxiv.org/abs/2510.12915)
 
 ## Conferences/ Workshops
 
