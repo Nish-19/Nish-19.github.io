@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Link](https://nish-19.github.io/files/Nischal_UMass_PhD.pdf)
+[PDF Link](https://nish-19.github.io/files/Nischal_UMass.pdf)
 
 Education
 ======
