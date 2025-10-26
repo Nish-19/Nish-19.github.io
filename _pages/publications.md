@@ -7,13 +7,9 @@ author_profile: true
 
 \* - denotes equal contribution.
 
-## Pre-Prints 
-
-* **N.Ashok Kumar**, C.M. Pham, M. Iyyer, A. Lan, "Whose story is it? Personalizing story generation by inferring author styles", arxiv [LINK](https://arxiv.org/abs/2502.13028)
-
-* **N.Ashok Kumar\***, M.C. Peczuh*, R. Baker, et al., "Toward LLM-Supported Automated Assessment of Critical Thinking Subskills", arxiv [LINK](https://arxiv.org/abs/2510.12915)
-
 ## Conferences/ Workshops
+
+* **N.Ashok Kumar**, C.M. Pham, M. Iyyer, A. Lan, "Whose story is it? Personalizing story generation by inferring author styles", International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP 2025 Main) [LINK](https://arxiv.org/abs/2502.13028)
 
 * **N. Ashok Kumar\***, M. Dong*, et al., "PRACTIQ: A Practical Conversational text-to-SQL dataset with Ambiguous and Unanswerable Queries", 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Main) [LINK](https://arxiv.org/pdf/2410.11076)
 
@@ -41,3 +37,6 @@ author_profile: true
 
 * R.Kumari, V.Gupta, **N.Ashok**, T.Ghosal, A.Ekbal, "Emotion aided multi-task framework for video embedded misinformation detection", in Multimedia Tools and Applications [LINK](https://link.springer.com/article/10.1007/s11042-023-17208-6)
 
+## Pre-Prints 
+
+* **N.Ashok Kumar\***, M.C. Peczuh*, R. Baker, et al., "Toward LLM-Supported Automated Assessment of Critical Thinking Subskills", arxiv [LINK](https://arxiv.org/abs/2510.12915)

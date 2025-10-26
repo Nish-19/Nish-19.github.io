@@ -23,6 +23,7 @@ News
     <table>
         <col width="100px">
         <col width="650px">
+        <tr><td><b>Oct 2025:</b></td><td>Our <a href="https://arxiv.org/abs/2502.13028">work</a> on personalization in story generation has been accepted at the 2025 AACL-IJCNLP Main Conference.</td></tr>
         <tr><td><b>Oct 2025:</b></td><td>Excited to release our new <a href="https://arxiv.org/abs/2510.12915">preprint</a> on LLMs for critical thinking assessment.</td></tr>
         <tr><td><b>Feb 2025:</b></td><td>Excited to release our new <a href="https://arxiv.org/abs/2502.13028">preprint</a> on personalization in story generation.</td></tr>
         <tr><td><b>Jan 2025:</b></td><td><a href="https://arxiv.org/pdf/2410.11076">PRACTIQ</a> has been accepted at <a href="https://2025.naacl.org/">NAACL 2025</a> main conference!</td></tr>
