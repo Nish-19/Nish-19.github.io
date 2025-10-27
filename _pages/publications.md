@@ -11,11 +11,11 @@ author_profile: true
 
 * **N.Ashok Kumar**, C.M. Pham, M. Iyyer, A. Lan, "Whose story is it? Personalizing story generation by inferring author styles", International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP 2025 Main) [LINK](https://arxiv.org/abs/2502.13028)
 
-* **N. Ashok Kumar\***, M. Dong*, et al., "PRACTIQ: A Practical Conversational text-to-SQL dataset with Ambiguous and Unanswerable Queries", 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Main) [LINK](https://arxiv.org/pdf/2410.11076)
+* **N. Ashok Kumar\***, M. Dong*, et al., "PRACTIQ: A Practical Conversational text-to-SQL dataset with Ambiguous and Unanswerable Queries", 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Main) [LINK](https://aclanthology.org/2025.naacl-long.13/)
 
-* **N. Ashok Kumar**, A. Lan, "Improving Socratic Question Generation using Data Augmentation and Preference Optimization", Proceedings of the 19th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2024) co-located with NAACL 2024 [LINK](https://aclanthology.org/2024.bea-1.10) 
+* **N. Ashok Kumar**, A. Lan, "Improving Socratic Question Generation using Data Augmentation and Preference Optimization", Proceedings of the 19th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2024) co-located with NAACL 2024 [LINK](https://aclanthology.org/2024.bea-1.10/) 
 
-* **N. Ashok Kumar**, A. Lan, "Using Large Language Models for Student-Code Guided Test Case Generation in Computer Science Education", AI4ED Workshop held with AAAI-2024 [LINK](https://arxiv.org/abs/2402.07081) (🏆 <span style="color: blue;">Best Runner-Up Paper</span> 🏆)
+* **N. Ashok Kumar**, A. Lan, "Using Large Language Models for Student-Code Guided Test Case Generation in Computer Science Education", AI4ED Workshop held with AAAI-2024 [LINK](https://proceedings.mlr.press/v257/kumar24.html) (🏆 <span style="color: blue;">Best Runner-Up Paper</span> 🏆)
 
 * **N. Ashok Kumar**, N. Fernandez, Z. Wang, A. Lan, "Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank", Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023) co-located with ACL 2023 [LINK](https://aclanthology.org/2023.bea-1.22/) (🏆 <span style="color: blue;">Outstanding Paper</span> 🏆)
 
