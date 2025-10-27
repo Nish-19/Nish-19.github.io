@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Computer Science, University of Massachusetts (UMass) Amherst, *Sept 2022 - Aug 2027 (Expected)* 
 * B.Tech. in Computer Science and Engineering, Indian Institute of Technology (IIT) Patna, *2018-2022* **(CGPA-9.38/10) (Institution Rank: 3/265)**
-* M.S. - Ph.D in Computer Science, University of Massachusetts (UMass) Amherst, *Sept 2022 - Aug 2027 (Expected)* 
 
 Work Experience
 ======
@@ -25,35 +25,27 @@ Work Experience
   * Worked with the Quicksight Q team on text-to-SQL problems. 
 
 * Summer 2022: NLP/ML Intern, SciSpace, Bangalore, India
-  * Worked on Video Generation from research articles
+  * Worked on video generation from research articles.
 
 * Fall 2019 - Spring 2022: Undergraduate Researcher, AI-NLP-ML Lab, IIT-Patna, India
-  * Project (B.Tech Thesis): Explainable Multi-Modal Misinformation Detection 
+  * Worked on explainable multi-Modal misinformation detection. 
 
-* Winter 2021: Research Intern, University of Illinois at Chicago, IL, USA
-  * Project: Question Generation from Scientific Articles 
-
-* Summer 2021: Research Intern, IBM Research AI, Bangalore
-  * Project: Detecting Ambiguity in Input-Output Annotations for Programming by Example (PBE) Task
+* Summer 2021: Research Intern, IBM Research AI, Bangalore, India
+  * Worked on detecting ambiguity in input-output annotations for Programming by Example (PBE) systems.
 
 * Oct 2020 - May 2021: Research Intern, DKE Group, University of Wuppertal, Germany
-  * Project: Language Technologies for detecting health fake news
+  * Worked on detecting health-based fake news.
 
-* May 2020 - Aug 2020: Research Intern, VAL Lab, IISc Bangalore
-  * Project: Unlabeled Data for Adversarial Robustness
-
-* Winter 2019: Data Science Intern, TildeHat
-  * Project: Unsupervised Data Retrieval from Resumes
-
+* May 2020 - Aug 2020: Research Intern, VAL Lab, IISc Bangalore, India
+  * Worked on unlabeled data for adversarial robustness.
 
 Mentoring
 ======
-* Disha Chiplonker (Spring 2024)
-* Dishank Jhaveri (Spring 2024)
-* Rohan Lekhwani (Spring 2024)
-* Saksham Bansal (Winter 2023)
-* Hayun Jung (Winter 2023)
-* Piyush Maheshwari (Winter 2023)
+* Junyang Lu (Spring 2025-present) 
+* Keerthi Chebrolu, Sudhip Nashi, Cadence Young (Summer 2025)
+* Aman Mehta, Prudhvi Nikku, Pranav Singh, Priya Yarrabolu (Spring 2025)
+* Disha Chiplonker, Dishank Jhaveri, Rohan Lekhwani (Spring 2024)
+* Saksham Bansal, Hayun Jung, Piyush Maheshwari (Winter 2023)
 
 Service and Leadership
 ======
