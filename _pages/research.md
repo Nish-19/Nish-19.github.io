@@ -11,7 +11,7 @@ I'm broadly interested in Machine Learning and Natural Language Processing appli
 
 Below is a list of my publications. 
 
-\* - denotes equal contribution.
+\* denotes equal contribution.
 
 ## Conferences and Workshops
 
