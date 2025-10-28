@@ -9,6 +9,8 @@ I'm broadly interested in Machine Learning and Natural Language Processing appli
 
 [Google Scholar](https://scholar.google.com/citations?user=K6xBWnEAAAAJ&hl=en), [Semantic Scholar](https://www.semanticscholar.org/author/Nischal-Ashok-Kumar/2120656434)
 
+Below is a list of my publications. 
+
 \* - denotes equal contribution.
 
 ## Conferences and Workshops
@@ -19,7 +21,7 @@ AACL-IJCNLP 2025
 [Code + Data](https://github.com/Nish-19/Persona-Story-Gen)
 
 [PRACTIQ: A Practical Conversational text-to-SQL dataset with Ambiguous and Unanswerable Queries](https://aclanthology.org/2025.naacl-long.13/)  
-**N. Ashok Kumar\***, M. Dong*, et al.  
+**N. Ashok Kumar\***, M. Dong*, Y. Hu, A. Chauhan, C. Hang, S. Chang, L. Pan, W. Lan, H. Zhu, J. Jiang, P. Ng, Z. Wang  
 NAACL 2025  
 [Code + Data](https://github.com/amazon-science/conversational-ambiguous-unanswerable-text2sql)
 
@@ -82,5 +84,5 @@ Multimedia Tools and Applications, 2023
 ## Pre-Prints
 
 [Toward LLM-Supported Automated Assessment of Critical Thinking Subskills](https://arxiv.org/abs/2510.12915)  
-**N.Ashok Kumar\***, M.C. Peczuh*, R. Baker, et al.  
+**N. Ashok Kumar\***, M.C. Peczuh*, R. Baker, B. Lehman, D. Eisenberg, C. Mills, K. Chebrolu, S. Nashi, C. Young, B. Liu, S. Lachman, A. Lan  
 arXiv, 2024
