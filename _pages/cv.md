@@ -13,8 +13,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Massachusetts (UMass) Amherst, *Sept 2022 - Aug 2027 (Expected)* 
-* B.Tech. in Computer Science and Engineering, Indian Institute of Technology (IIT) Patna, *2018-2022* **(CGPA-9.38/10) (Institution Rank: 3/265)**
+
+**Ph.D. in Computer Science** <span style="float: right;">*Sept 2022 - Aug 2027 (Expected)*</span>  
+University of Massachusetts Amherst  
+    GPA: 4.0/4.0  
+
+**B.Tech. in Computer Science and Engineering** <span style="float: right;">*2018 - 2022*</span>  
+Indian Institute of Technology Patna  
+    CGPA: 9.38/10 (Institution Rank: 3/265)
 
 Work Experience
 ======
