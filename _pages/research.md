@@ -73,7 +73,7 @@ Information Processing and Management, 2022
 [Code](https://github.com/Nish-19/Misinformation-Novelty-Emotion)
 
 [Identifying Multimodal Misinformation Leveraging Novelty Detection and Emotion Recognition](https://link.springer.com/article/10.1007/s10844-023-00789-x)  
-**N.Ashok**, R.Kumari, P.K. Agarwal, T.Ghosal, A.Ekbal  
+**N.Ashok\***, R.Kumari*, P.K. Agarwal, T.Ghosal, A.Ekbal  
 Journal of Intelligent Information Systems, 2023  
 [Code](https://github.com/Nish-19/Contrastive_Learning_MM_FND)
 
