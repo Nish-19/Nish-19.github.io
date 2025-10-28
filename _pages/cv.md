@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Link](https://nish-19.github.io/files/Nischal_UMass.pdf)
+[[Link to PDF]](https://nish-19.github.io/files/Nischal_UMass.pdf)
 
 Education
 ======
@@ -22,28 +22,40 @@ University of Massachusetts Amherst
 Indian Institute of Technology Patna  
     CGPA: 9.38/10 (Institution Rank: 3/265)
 
-Work Experience
+Experience
 ======
-* Summer 2024: Applied Scientist II Intern, Amazon Web Services, New York City, USA
-  * Worked with the Bedrock team on Retrieval Augmented Generation (RAG). 
 
-* Summer 2023: Applied Scientist II Intern, Amazon Web Services, New York City, USA
-  * Worked with the Quicksight Q team on text-to-SQL problems. 
+**Research Assistant** <span style="float: right;">*Sept 2022 - Present*</span>  
+CICS UMass Amherst, MA, USA  
+    Working on ML and NLP for educational and creative applications.
 
-* Summer 2022: NLP/ML Intern, SciSpace, Bangalore, India
-  * Worked on video generation from research articles.
+**Applied Scientist II Intern** <span style="float: right;">*Summer 2024*</span>  
+Amazon Web Services, New York City, USA  
+    Worked with the Bedrock team on Retrieval Augmented Generation (RAG).
 
-* Fall 2019 - Spring 2022: Undergraduate Researcher, AI-NLP-ML Lab, IIT-Patna, India
-  * Worked on explainable multi-Modal misinformation detection. 
+**Applied Scientist II Intern** <span style="float: right;">*Summer 2023*</span>  
+Amazon Web Services, New York City, USA  
+    Worked with the Quicksight Q team on text-to-SQL problems.
 
-* Summer 2021: Research Intern, IBM Research AI, Bangalore, India
-  * Worked on detecting ambiguity in input-output annotations for Programming by Example (PBE) systems.
+**NLP/ML Intern** <span style="float: right;">*Summer 2022*</span>  
+SciSpace, Bangalore, India  
+    Worked on video generation from research articles.
 
-* Oct 2020 - May 2021: Research Intern, DKE Group, University of Wuppertal, Germany
-  * Worked on detecting health-based fake news.
+**Research Intern** <span style="float: right;">*Summer 2021*</span>  
+IBM Research AI, Bangalore, India  
+    Worked on detecting ambiguity in input-output annotations for Programming by Example (PBE) systems.
 
-* May 2020 - Aug 2020: Research Intern, VAL Lab, IISc Bangalore, India
-  * Worked on unlabeled data for adversarial robustness.
+**Research Intern** <span style="float: right;">*Oct 2020 - May 2021*</span>  
+DKE Group, University of Wuppertal, Germany  
+    Worked on detecting health-based fake news.
+
+**Research Intern** <span style="float: right;">*May 2020 - Aug 2020*</span>  
+VAL Lab, IISc Bangalore, India  
+    Worked on unlabeled data for adversarial robustness.
+
+**Undergraduate Researcher** <span style="float: right;">*Fall 2019 - Spring 2022*</span>  
+AI-NLP-ML Lab, IIT Patna, India  
+    Worked on explainable multi-modal misinformation detection.
 
 Mentoring
 ======
