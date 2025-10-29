@@ -27,35 +27,35 @@ Experience
 
 **Research Assistant** <span style="float: right;">*Sept 2022 - Present*</span>  
 CICS UMass Amherst, MA, USA  
-    Working on ML and NLP for educational and creative applications.
+  • Working on ML and NLP for educational and creative applications.
 
 **Applied Scientist Intern** <span style="float: right;">*June 2024 - Sept 2024*</span>  
 Amazon Web Services, New York City, USA  
-    Worked with the Bedrock team on Retrieval Augmented Generation (RAG).
+  • Worked with the Bedrock team on Retrieval Augmented Generation (RAG).
 
 **Applied Scientist Intern** <span style="float: right;">*June 2023 - Sept 2023*</span>  
 Amazon Web Services, New York City, USA  
-    Worked with the Quicksight Q team on text-to-SQL problems.
+  • Worked with the Quicksight Q team on text-to-SQL problems.
 
 **Research Scientist Intern** <span style="float: right;">*May 2022 - Aug 2022*</span>  
 SciSpace, Bangalore, India  
-    Worked on video generation from research articles.
+  • Worked on video generation from research articles.
 
 **Research Assistant** <span style="float: right;">*July 2019 - May 2022*</span>  
 AI-NLP-ML Lab, IIT Patna, India  
-    Worked on explainable multi-modal misinformation detection.
+  • Worked on explainable multi-modal misinformation detection.
 
 **Research Intern** <span style="float: right;">*May 2021 - Aug 2021*</span>  
 IBM Research AI, Bangalore, India  
-    Worked on detecting ambiguity in input-output annotations for Programming by Example (PBE) systems.
+  • Worked on detecting ambiguity in input-output annotations for Programming by Example (PBE) systems.
 
 **Research Intern** <span style="float: right;">*Dec 2020 - May 2021*</span>  
 DKE Group, University of Wuppertal, Germany  
-    Worked on detecting health-based fake news.
+  • Worked on detecting health-based fake news.
 
 **Research Intern** <span style="float: right;">*May 2020 - Aug 2020*</span>  
 VAL Lab, IISc Bangalore, India  
-    Worked on unlabeled data for adversarial robustness.
+  • Worked on unlabeled data for adversarial robustness.
 
 
 Mentoring
