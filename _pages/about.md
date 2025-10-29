@@ -11,7 +11,7 @@ I am a 4th year Computer Science PhD Candidate at the [University of Massachuset
 
 I completed my Bachelor's degree in Computer Science and Engineering (CSE) from the [Indian Institute of Technology](https://www.iitp.ac.in/) Patna where I was advised by [Prof. Asif Ekbal](https://ekbalasif.github.io/) in the [AI-NLP-ML Lab](https://www.iitp.ac.in/~ai-nlp-ml/). During my PhD and undergrad, I have had wonderful opportunities interning at [AWS AI Labs](https://www.amazon.science/) (Summer 2023, 2024), [SciSpace](https://typeset.io/) (Summer 2022), [IBM Research](https://research.ibm.com/) (Summer 2021), and collaborating with academic labs [DKE group at BUW](https://gipplab.org/) (Spring 2021), [VAL group at IISc Bangalore](https://val.cds.iisc.ac.in) (Summer 2020).
 
-For a complete list of my publications, please visit the [Research](/research/) tab. You can also find my CV [here](/cv/).
+For a complete list of my publications, please visit the [Research](/research/) tab. You can find my CV [here](/cv/).
 
 Email: [nashokkumar@cs.umass.edu](mailto:nashokkumar@cs.umass.edu)
 
