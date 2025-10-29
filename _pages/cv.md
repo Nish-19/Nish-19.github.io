@@ -20,7 +20,7 @@ University of Massachusetts Amherst
 
 **B.Tech. in Computer Science and Engineering** <span style="float: right;">*July 2018 - May 2022*</span>  
 Indian Institute of Technology Patna  
-    CGPA: 9.38/10 (Institution Rank: 3/265)
+    CGPA: 9.38/10 (Rank: 3/265)
 
 Experience
 ======
