@@ -85,4 +85,4 @@ Multimedia Tools and Applications, 2023
 
 [Toward LLM-Supported Automated Assessment of Critical Thinking Subskills](https://arxiv.org/abs/2510.12915)  
 **N. Ashok Kumar\***, M.C. Peczuh*, R. Baker, B. Lehman, D. Eisenberg, C. Mills, K. Chebrolu, S. Nashi, C. Young, B. Liu, S. Lachman, A. Lan  
-arXiv, 2024
+arXiv, 2025
