@@ -60,17 +60,17 @@ VAL Lab, IISc Bangalore, India
 
 Mentoring
 ======
-* Junyang Lu (Spring 2025-present) 
-* Keerthi Chebrolu, Sudhip Nashi, Cadence Young (Summer 2025)
-* Aman Mehta, Prudhvi Nikku, Pranav Singh, Priya Yarrabolu (Spring 2025)
-* Disha Chiplonker, Dishank Jhaveri, Rohan Lekhwani (Spring 2024)
-* Saksham Bansal, Hayun Jung, Piyush Maheshwari (Winter 2023)
+* Junyang Lu *(Spring 2025-present)* 
+* Keerthi Chebrolu, Sudhip Nashi, Cadence Young *(Summer 2025)*
+* Aman Mehta, Prudhvi Nikku, Pranav Singh, Priya Yarrabolu *(Spring 2025)*
+* Disha Chiplonker, Dishank Jhaveri, Rohan Lekhwani *(Spring 2024)*
+* Saksham Bansal, Hayun Jung, Piyush Maheshwari *(Winter 2023)*
 
 Service and Leadership
 ======
-* [Sept 2023 - Nov 2023] Member - PhD Application Support Committee (PASP) UMass CICS.
-* [Sept 2022 - May 2023] Member - New Student Graduate Committee UMass CICS.
-* [May 2020 - Aug 2021] Lead - Machine Learning, NJACK CSE Club of IIT-Patna
-* [Aug 2019 - Jul 2021] Head - Industrial Relations, Entrepreneurship Cell of IIT-Patna
-* [Aug 2019 - Aug 2020] Departmental Lead, Developer Student Clubs - IIT Patna
+* Member, PhD Application Support Committee (PASP) - UMass CICS *(Fall 2023)*
+* Member, New Student Graduate Committee - UMass CICS *(Fall 2022 - Spring 2023)*
+* Lead, Machine Learning - NJACK CSE Club, IIT Patna *(Fall 2020 - Summer 2021)*
+* Head, Industrial Relations - Entrepreneurship Cell, IIT Patna *(Fall 2019 - Summer 2021)*
+* Departmental Lead - Developer Student Clubs, IIT Patna *(Fall 2019 - Summer 2020)*
 
