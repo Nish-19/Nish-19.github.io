@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I'm broadly interested in Machine Learning and Natural Language Processing applied to user-centered domains like education and creativity. 
+My research focuses on controlled text generation, user modeling, and personalization, leveraging conversational AI, retrieval-augmented generation (RAG), and multi-agent systems. My specialization is in large language model (LLM) alignment and fine-tuning, with experience applying techniques such as RLHF, DPO, and GRPO alongside prompt chaining. My work is applied across diverse domains, including social media, code generation, education, and creative writing.
 
 [Google Scholar](https://scholar.google.com/citations?user=K6xBWnEAAAAJ&hl=en), [Semantic Scholar](https://www.semanticscholar.org/author/Nischal-Ashok-Kumar/2120656434)
 
