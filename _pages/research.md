@@ -15,7 +15,7 @@ Below is a list of my publications.
 
 ## Conferences and Workshops
 
-[Whose story is it? Personalizing story generation by inferring author styles](https://arxiv.org/abs/2502.13028)  
+[Whose story is it? Personalizing story generation by inferring author styles](https://aclanthology.org/2025.ijcnlp-long.82/)  
 **N. Ashok Kumar**, C.M. Pham, M. Iyyer, A. Lan  
 AACL-IJCNLP 2025  
 [Code + Data](https://github.com/Nish-19/Persona-Story-Gen)
