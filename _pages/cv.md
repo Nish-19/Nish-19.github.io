@@ -25,6 +25,10 @@ Indian Institute of Technology Patna
 Experience
 ======
 
+**Machine Learning Research Intern** <span style="float: right;">*June 2026 - Aug 2026*</span>  
+Netflix, Los Gatos, USA  
+  • Working on Generative Retrieval for powering conversational search.
+
 **Research Assistant** <span style="float: right;">*Sept 2022 - Present*</span>  
 CICS UMass Amherst, MA, USA  
   • Working on ML and NLP for educational and creative applications.

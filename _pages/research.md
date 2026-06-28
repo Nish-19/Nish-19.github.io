@@ -15,6 +15,14 @@ Below is a list of my publications.
 
 ## Conferences and Workshops
 
+[Toward LLM-Supported Automated Assessment of Critical Thinking Subskills](https://arxiv.org/abs/2510.12915)  
+**N. Ashok Kumar\***, M.C. Peczuh*, R. Baker, B. Lehman, D. Eisenberg, C. Mills, K. Chebrolu, S. Nashi, C. Young, B. Liu, S. Lachman, A. Lan  
+EDM 2026
+
+[A Multi-Agent Approach to Validate and Refine LLM-Generated Personalized Math Problems](https://arxiv.org/abs/2604.05160)  
+F. Ikram, **N. Ashok Kumar**, J. Lu, H. McNichols, C. Walkington, N. Heffernan, A. Lan
+AIED 2026
+
 [Whose story is it? Personalizing story generation by inferring author styles](https://aclanthology.org/2025.ijcnlp-long.82/)  
 **N. Ashok Kumar**, C.M. Pham, M. Iyyer, A. Lan  
 AACL-IJCNLP 2025  
@@ -80,9 +88,3 @@ Journal of Intelligent Information Systems, 2023
 [Emotion aided multi-task framework for video embedded misinformation detection](https://link.springer.com/article/10.1007/s11042-023-17208-6)  
 R.Kumari, V.Gupta, **N.Ashok**, T.Ghosal, A.Ekbal  
 Multimedia Tools and Applications, 2023  
-
-## Pre-Prints
-
-[Toward LLM-Supported Automated Assessment of Critical Thinking Subskills](https://arxiv.org/abs/2510.12915)  
-**N. Ashok Kumar\***, M.C. Peczuh*, R. Baker, B. Lehman, D. Eisenberg, C. Mills, K. Chebrolu, S. Nashi, C. Young, B. Liu, S. Lachman, A. Lan  
-arXiv, 2025
