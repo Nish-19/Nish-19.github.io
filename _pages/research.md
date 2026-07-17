@@ -21,7 +21,7 @@ AI for Education Day at SIGKDD 2026
 
 [Toward LLM-Supported Automated Assessment of Critical Thinking Subskills](https://arxiv.org/abs/2510.12915)  
 **N. Ashok Kumar\***, M.C. Peczuh*, R. Baker, B. Lehman, D. Eisenberg, C. Mills, K. Chebrolu, S. Nashi, C. Young, B. Liu, S. Lachman, A. Lan  
-EDM 2026
+EDM 2026 (**Nominated for Best Full Paper (Top-2)** 🏆)
 
 [A Multi-Agent Approach to Validate and Refine LLM-Generated Personalized Math Problems](https://arxiv.org/abs/2604.05160)  
 F. Ikram, **N. Ashok Kumar**, J. Lu, H. McNichols, C. Walkington, N. Heffernan, A. Lan  
