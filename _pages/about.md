@@ -29,7 +29,7 @@ News
         <col width="100px">
         <col width="650px">
         <tr><td><b>Jun 2026:</b></td><td>started internship at <a href="https://research.netflix.com/">Netflix</a> working on conversational search and generative retrieval.</td></tr>
-        <tr><td><b>Jun 2026:</b></td><td>paper to appear at <a href="https://sites.google.com/view/aiedkdd26">AI for Education at SIGKDD 2026</a> on <a href="https://arxiv.org/pdf/2607.13433">cross-rubric generalization in esssay scoring</a>.</td></tr>
+        <tr><td><b>Jun 2026:</b></td><td>paper to appear at <a href="https://sites.google.com/view/aiedkdd26">AI for Education Day at SIGKDD 2026</a> on <a href="https://arxiv.org/pdf/2607.13433">cross-rubric generalization in esssay scoring</a>.</td></tr>
         <tr><td><b>Mar 2026:</b></td><td>paper to appear at <a href="https://educationaldatamining.org/edm2026/">EDM 2026</a> on <a href="https://arxiv.org/abs/2510.12915">critical thinking essay scoring</a>.</td></tr>
         <tr><td><b>Mar 2026:</b></td><td>paper to appear at <a href="https://www.aied-conference.org/2026">AIED 2026</a> on <a href="https://arxiv.org/abs/2604.05160">math-word problem personalization using multi-agents</a>.</td></tr>
         <tr><td><b>Oct 2025:</b></td><td>paper to appear at <a href="https://2025.aaclnet.org/">AACL-IJCNLP 2025</a> on <a href="https://aclanthology.org/2025.ijcnlp-long.82/">personalization in story generation</a>.</td></tr>

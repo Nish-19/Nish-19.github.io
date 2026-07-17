@@ -16,8 +16,8 @@ Below is a list of my publications.
 ## Conferences and Workshops
 
 [When Rubrics Change: Cross-Rubric Generalization for Critical Thinking Essay Scoring](https://arxiv.org/pdf/2607.13433)  
-**N. Ashok Kumar\***, P. Wittawatolarn, S. Kang, M.C. Peczuh, B. Lehman,  R. Baker, C. Mills, S. Lachman, R. Sun, A. Lan  
-AI for Education at SIGKDD 2026
+**N. Ashok Kumar**, P. Wittawatolarn, S. Kang, M.C. Peczuh, B. Lehman,  R. Baker, C. Mills, S. Lachman, R. Sun, A. Lan  
+AI for Education Day at SIGKDD 2026
 
 [Toward LLM-Supported Automated Assessment of Critical Thinking Subskills](https://arxiv.org/abs/2510.12915)  
 **N. Ashok Kumar\***, M.C. Peczuh*, R. Baker, B. Lehman, D. Eisenberg, C. Mills, K. Chebrolu, S. Nashi, C. Young, B. Liu, S. Lachman, A. Lan  
