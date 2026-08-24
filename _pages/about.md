@@ -28,6 +28,7 @@ News
     <table>
         <col width="100px">
         <col width="650px">
+        <tr><td><b>Aug 2026:</b></td><td>paper to appear at <a href="https://2026.emnlp.org/">EMNLP 2026 (Findings)</a> on <a href="https://arxiv.org/abs/2608.08389">context pruning in deep research agents</a>.</td></tr>
         <tr><td><b>Jun 2026:</b></td><td>started internship at <a href="https://research.netflix.com/">Netflix</a> working on conversational search and generative retrieval.</td></tr>
         <tr><td><b>Jun 2026:</b></td><td>paper to appear at <a href="https://sites.google.com/view/aiedkdd26">AI for Education Day at SIGKDD 2026</a> on <a href="https://arxiv.org/pdf/2607.13433">cross-rubric generalization in esssay scoring</a>.</td></tr>
         <tr><td><b>Mar 2026:</b></td><td>paper to appear at <a href="https://educationaldatamining.org/edm2026/">EDM 2026</a> on <a href="https://arxiv.org/abs/2510.12915">critical thinking essay scoring</a>.</td></tr>

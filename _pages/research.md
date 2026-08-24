@@ -57,6 +57,10 @@ BEA Workshop @ ACL 2023 (**Outstanding Paper** 🏆)
 EDM 2023  
 [Code](https://github.com/umass-ml4ed/Neurips-Challenge-22)
 
+[Not Worth Another Token: Marginal Value Estimation for Efficient Deep Research Agents](https://arxiv.org/abs/2608.08389)  
+H. Kolukuluru, R. Ashok, K. Arora, E.W. Ciccarelli, **N. Ashok Kumar**, et al. 
+EMNLP 2026 (Findings)
+
 [MMM: An Emotion and Novelty-aware Approach for Multilingual Multimodal Misinformation Detection](https://aclanthology.org/2022.findings-aacl.43/)  
 V.Gupta, R.Kumari, **N.Ashok**, T.Ghosal, A.Ekbal  
 Findings of AACL-IJCNLP 2022  
