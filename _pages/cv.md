@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-[[Link to PDF]](https://nish-19.github.io/files/Nischal_UMass.pdf)
+[[Link to PDF]](https://nish-19.github.io/files/Curriculum_Vitae_Nischal.pdf)
 
 Education
 ======
 
-**Ph.D. in Computer Science** <span style="float: right;">*Sept 2022 - Aug 2027 (Expected)*</span>  
+**Ph.D. in Computer Science** <span style="float: right;">*Sept 2022 - Jan 2027 (Expected)*</span>  
 University of Massachusetts Amherst  
     GPA: 4.0/4.0  
 
