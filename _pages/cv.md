@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-[[Link to PDF]](https://nish-19.github.io/files/Curriculum_Vitae_Nischal.pdf) 
+[[Link to PDF]](https://nish-19.github.io/files/Curriculum_Vitae_Nischal.pdf)    
 *Last Updated: 09/2026*
 
 Education
 ======
 
 **Ph.D. in Computer Science** <span style="float: right;">*Sept 2022 - Jan 2027 (Expected)*</span>  
-University of Massachusetts Amherst 
+University of Massachusetts Amherst     
     GPA: 4.0/4.0 *(MS awarded in May 2025)*
 
 **B.Tech. in Computer Science and Engineering** <span style="float: right;">*July 2018 - May 2022*</span>  
@@ -64,7 +64,7 @@ DKE Group, University of Wuppertal, Germany
 **Research Intern** <span style="float: right;">*May 2020 - Aug 2020*</span>  
 VAL Lab, IISc Bangalore, India  
   • Worked on unlabeled data for adversarial robustness.
-  
+
 
 Mentoring
 ======
