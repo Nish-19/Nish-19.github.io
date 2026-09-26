@@ -88,4 +88,4 @@ Member, PhD Application Support Committee (PASP) - UMass CICS *(Fall 2023)*
 Member, New Student Graduate Committee - UMass CICS *(Fall 2022 - Spring 2023)*  
 Lead, Machine Learning - NJACK CSE Club, IIT Patna *(Fall 2020 - Summer 2021)*  
 Head, Industrial Relations - Entrepreneurship Cell, IIT Patna *(Fall 2019 - Summer 2021)*  
-Departmental Lead - Google Developer Student Clubs, IIT Patna *(Fall 2019 - Summer 2020)*
+Departmental Lead, Google Developer Student Clubs, IIT Patna *(Fall 2019 - Summer 2020)*
