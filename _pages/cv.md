@@ -69,7 +69,7 @@ VAL Lab, IISc Bangalore, India
 Mentoring
 ======
 
-**Undergraduate Research Mentees**
+**Undergraduate Mentorship (B.S. Students)**
 * Henry Yang, Hari Umapathy *(Spring 2026 - Present)*
 * Payu Wittawatolarn, Kushaan Naskar *(Fall 2025)*
 * Junyang Lu *(Spring 2025 - Fall 2025)*
