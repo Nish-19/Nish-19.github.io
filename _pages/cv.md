@@ -69,23 +69,23 @@ VAL Lab, IISc Bangalore, India
 Mentoring
 ======
 
-**Undergraduate Mentorship (B.S. Students)**
-* Henry Yang, Hari Umapathy *(Spring 2026 - Present)*
-* Payu Wittawatolarn, Kushaan Naskar *(Fall 2025)*
-* Junyang Lu *(Spring 2025 - Fall 2025)*
-* Keerthi Chebrolu, Sudhip Nashi, Cadence Young *(Summer 2025)*
-* Saksham Bansal, Hayun Jung, Piyush Maheshwari *(Winter 2023)*
+**Undergraduate Mentorship (B.S. Students)**  
+Henry Yang, Hari Umapathy *(Spring 2026 - Present)*  
+Payu Wittawatolarn, Kushaan Naskar *(Fall 2025)*  
+Junyang Lu *(Spring 2025 - Fall 2025)*  
+Keerthi Chebrolu, Sudhip Nashi, Cadence Young *(Summer 2025)*  
+Saksham Bansal, Hayun Jung, Piyush Maheshwari *(Winter 2023)*
 
-**Industry Mentorship (M.S. Students)**
-* Harshitha Kolukuluru, Reshma Ashok, Kirat Arora, Evan William Ciccarelli — *with Adobe* *(Spring 2026)*
-* Aman Mehta, Prudhvi Nikku, Pranav Singh, Priya Yarrabolu — *with Meta* *(Spring 2025)*
-* Disha Chiplonker, Dishank Jhaveri, Rohan Lekhwani — *with Graphite* *(Spring 2024)*
+**Industry Mentorship (M.S. Students)**  
+Harshitha Kolukuluru, Reshma Ashok, Kirat Arora, Evan William Ciccarelli — *with Adobe* *(Spring 2026)*  
+Aman Mehta, Prudhvi Nikku, Pranav Singh, Priya Yarrabolu — *with Meta* *(Spring 2025)*  
+Disha Chiplonker, Dishank Jhaveri, Rohan Lekhwani — *with Graphite* *(Spring 2024)*
 
 Service and Leadership
 ======
-* Member, PhD Application Support Committee (PASP) - UMass CICS *(Fall 2023)*
-* Member, New Student Graduate Committee - UMass CICS *(Fall 2022 - Spring 2023)*
-* Lead, Machine Learning - NJACK CSE Club, IIT Patna *(Fall 2020 - Summer 2021)*
-* Head, Industrial Relations - Entrepreneurship Cell, IIT Patna *(Fall 2019 - Summer 2021)*
-* Departmental Lead - Google Developer Student Clubs, IIT Patna *(Fall 2019 - Summer 2020)*
 
+Member, PhD Application Support Committee (PASP) - UMass CICS *(Fall 2023)*  
+Member, New Student Graduate Committee - UMass CICS *(Fall 2022 - Spring 2023)*  
+Lead, Machine Learning - NJACK CSE Club, IIT Patna *(Fall 2020 - Summer 2021)*  
+Head, Industrial Relations - Entrepreneurship Cell, IIT Patna *(Fall 2019 - Summer 2021)*  
+Departmental Lead - Google Developer Student Clubs, IIT Patna *(Fall 2019 - Summer 2020)*
